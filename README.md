@@ -4,7 +4,7 @@
 
 A finding aid for digitized Public Domain publications of the **Borderland Sciences Research Associates (BSRA)**, founded by [Meade Layne](https://iapsop.com/archive/materials/people.html#layne_meade), hosted on the Internet Archive.
 
-Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) collection.
+Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) collection. It’s named the Frederick C. Durant III BSRA Collection, because this specific name was on a hand written note on the inside of the box containing the very rare _The Flying Roll_ issues.
 
 **168 items** in four categories:
 
