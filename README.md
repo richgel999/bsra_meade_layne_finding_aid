@@ -2,7 +2,7 @@
 
 # BSRA / Borderland Sciences Finding Aid
 
-A finding aid for digitized publications of the **Borderland Sciences Research Associates (BSRA)**, founded by [Meade Layne](https://iapsop.com/archive/materials/people.html#layne_meade), hosted on the Internet Archive.
+A finding aid for digitized Public Domain (non-copyrighted) publications of the **Borderland Sciences Research Associates (BSRA)**, founded by [Meade Layne](https://iapsop.com/archive/materials/people.html#layne_meade), hosted on the Internet Archive.
 
 Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) collection.
 
