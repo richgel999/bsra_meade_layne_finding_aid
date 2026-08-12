@@ -8,8 +8,8 @@ Much of this was digitized from the [Frederick Clark Durant III](https://en.wiki
 
 **168 items** in four categories:
 
-- [The Round Robin](#the-round-robin) — 79 items
 - [The Flying Roll](#the-flying-roll) — 9 items
+- [The Round Robin](#the-round-robin) — 79 items
 - [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc) — 74 items
 - [BSRA - Misc Publications](#bsra---misc-publications) — 6 items
 
