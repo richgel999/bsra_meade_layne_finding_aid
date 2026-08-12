@@ -13,6 +13,8 @@ Much of this was digitized from the [Frederick Clark Durant III](https://en.wiki
 - [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc) — 74 items
 - [BSRA - Misc Publications](#bsra---misc-publications) — 6 items
 
+You can also access the individual items in the collection [on archive.org here](https://archive.org/search?query=creator%3A%22Meade+Layne%22).
+
 ## The Flying Roll
 
 | Date | Title | Link |
