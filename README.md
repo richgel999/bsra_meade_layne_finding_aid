@@ -210,7 +210,7 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## WANTED / Missing Round Robin Issues
 
-I've found a source for V15 issues, but these are missing:
+I've found a source for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
 
 - V6N4
 - V7N1
