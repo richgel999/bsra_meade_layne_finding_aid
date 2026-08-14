@@ -185,7 +185,7 @@ You can also access the individual items in the collection [on archive.org here]
 | 1957-08 | Clips, Quotes and Comments, G10, Aug 1957 | [View](https://archive.org/details/bsra_CQC_g10_aug_1957) | |
 | 1957-09 | Clips, Quotes and Comments, G11, Sep 1957 | [View](https://archive.org/details/bsra_CQC_g11_sep_1957) | |
 | 1957-11 | Clips, Quotes and Comments, G12, Nov 1957 | [View](https://archive.org/details/bsra_CQC_g12_nov_1957) | |
-| 1958-01 | Clips, Quotes and Comments, H1, Jan 1958 | [View](https://archive.org/details/bsra_CQC_h1_jan_1957) | "1957" on original scanned TOC page/filename is incorrect, it's 1/1958 |
+| 1958-01 | Clips, Quotes and Comments, H1, Jan 1958 | [View](https://archive.org/details/bsra_CQC_h1_jan_1957) | "1957" on scanned TOC page/filename is incorrect |
 | 1958-02 | Clips, Quotes and Comments, H2, Feb 1958 | [View](https://archive.org/details/bsra_CQC_h2_feb_1958) | |
 | 1958-03 | Clips, Quotes and Comments, H3, Mar 1958 | [View](https://archive.org/details/bsra_CQC_h3_mar_1958) | |
 | 1958-04 | Clips, Quotes and Comments, H4, Apr 1958 | [View](https://archive.org/details/bsra_CQC_h4_apr_1958) | |
