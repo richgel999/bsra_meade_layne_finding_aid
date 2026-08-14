@@ -6,10 +6,10 @@ A finding aid for digitized Public Domain publications of the **Borderland Scien
 
 Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) BSRA Collection. (This specific name was on a hand written note on the inside of the box containing the very rare _The Flying Roll_ issues.)
 
- **171 items** in four categories:
+ **172 items** in four categories:
 
 - [The Flying Roll](#the-flying-roll) — 9 items
-- [The Round Robin](#the-round-robin) — 82 items
+- [The Round Robin](#the-round-robin) — 83 items
 - [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc) — 74 items
 - [BSRA - Misc Publications](#bsra---misc-publications) — 6 items
 
@@ -68,6 +68,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1949-05 | The Round Robin, V5 N3, May 1949 | [View](https://archive.org/details/afu-1949-round-robin-vol-5-no-3) | |
 | 1949-06 | The Round Robin, V5 N4, Jun 1949 | [View](https://archive.org/details/afu-1949-round-robin-vol-5-no-4) | |
 | 1949-08 | The Round Robin, V5 N5, Aug 1949 | [View](https://archive.org/details/round_robin_v5_n5_aug_1949) | |
+| 1949-09 | The Round Robin, V5 N6, Sep 1949 | [View](https://archive.org/details/round_robin_v5_n6_sept_1949_202608) | |
 | 1950-01 | The Round Robin, V6 N1, Jan 1950 | [View](https://archive.org/details/round_robin_v6_n1_jan_1950) | |
 | 1950-04 | The Round Robin, V6 N2, Apr 1950 | [View](https://archive.org/details/round_robin_v6_n2_apr_1950) | |
 | 1950-06 | The Round Robin, V6 N3, Jun 1950 | [View](https://archive.org/details/the-round-robin-v-6-n-3-jun-1950) | |
