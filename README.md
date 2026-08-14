@@ -207,3 +207,16 @@ You can also access most of the individual items in the collection [on archive.o
 | 1950-10 | BSRA Release 10-A-50 "Behind The Flying Saucers" | [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) |
 | 1958-01 | BSRA – Return of the Dove | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) |
 | 1958-02 | BSRA Memo, Feb 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) |
+
+## WANTED / Missing Round Robin Issues
+
+I've found a source for V15 issues, but these are missing:
+
+- V6N4
+- V7N1
+- V8N3
+- V8N4
+- V9N4
+- V13N1
+- V14N5
+- V14N6
