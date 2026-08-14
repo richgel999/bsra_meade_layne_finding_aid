@@ -72,6 +72,7 @@ You can also access the individual items in the collection [on archive.org here]
 | 1950-04 | The Round Robin, V6 N2, Apr 1950 | [View](https://archive.org/details/round_robin_v6_n2_apr_1950) |
 | 1950-06 | The Round Robin, V6 N3, Jun 1950 | [View](https://archive.org/details/the-round-robin-v-6-n-3-jun-1950) |
 | 1951-01 | The Round Robin, V6 N5, Jan–Feb 1951 | [View](https://archive.org/details/round_robin_v6_n5_jan_feb_1951) |
+| 1951-03 | The Round Robin, V6 N6, Mar-Apr 1951 | [View](https://archive.org/details/round_robin_v6_n6_mar_apr_1951) |
 | 1951-09 | The Round Robin, V7 N3, Sep–Oct 1951 | [View](https://archive.org/details/round_robin_v7_n3_sept_oct_1951) |
 | 1951-11 | The Round Robin, V7 N4, Nov–Dec 1951 | [View](https://archive.org/details/round_robin_v7_n4_nov_dec_1951) |
 | 1952-01 | The Round Robin – misc. papers, early 1950s | [View](https://archive.org/details/bsra_misc_1950s) |
