@@ -180,7 +180,7 @@ You can also access the individual items in the collection [on archive.org here]
 | 1957-02 | Clips, Quotes and Comments, G4, Feb 1957 | [View](https://archive.org/details/bsra_CQC_g4_feb_1957) |
 | 1957-03 | Clips, Quotes and Comments, G5, Mar 1957 | [View](https://archive.org/details/bsra_CQC_g5_mar_1957) |
 | 1957-04 | Clips, Quotes and Comments, G6, Apr 1957 | [View](https://archive.org/details/bsra_CQC_g6_apr_1957) |
-| 1957-06 | Clips, Quotes and Comments, G7, May 1957 | [View](https://archive.org/details/bsra_CQC_g7_may_1957) |
+| 1957-05 | Clips, Quotes and Comments, G7, May 1957 | [View](https://archive.org/details/bsra_CQC_g7_may_1957) |
 | 1957-06 | Clips, Quotes and Comments, G8, Jun 1957 | [View](https://archive.org/details/bsra_CQC_g8_jun_1957) |
 | 1957-07 | Clips, Quotes and Comments, G9, Jul 1957 | [View](https://archive.org/details/bsra_CQC_g9_jul_1957) |
 | 1957-08 | Clips, Quotes and Comments, G10, Aug 1957 | [View](https://archive.org/details/bsra_CQC_g10_aug_1957) |
