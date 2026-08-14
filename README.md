@@ -50,6 +50,7 @@ You can also access the individual items in the collection [on archive.org here]
 | 1947-01 | The Round Robin, V3 N1, Jan 1947 | [View](https://archive.org/details/round-robin-v-3-n-1-jan-1947) |
 | 1947-02 | The Round Robin, V3 N2, Feb 1947 | [View](https://archive.org/details/round-robin-v-3-n-2-feb-1947) |
 | 1947-04 | The Round Robin, V3 N4, Apr 1947 | [View](https://archive.org/details/round-robin-v-3-n-4-apr-1947) |
+| 1947-05 | The Round Robin, V3 N5, May-Jun 1947 | [View](https://archive.org/details/round_robin_v3_n5_may_jun_1947/round_robin_v3_n5_may_jun_1947 ) |
 | 1947-07 | The Round Robin, V3 N6, Jul–Aug 1947 | [View](https://archive.org/details/round-robin-v-3-n-6-jul-aug-1947) |
 | 1947-09 | The Round Robin, V3 N7, Sep 1947 | [View](https://archive.org/details/round-robin-v-3-n-7-sept-1947) |
 | 1947-11 | The Round Robin, V3 N8, Nov 1947 | [View](https://archive.org/details/the-round-robin-v-3-n-8-nov-1947) |
