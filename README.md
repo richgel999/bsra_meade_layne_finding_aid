@@ -118,8 +118,8 @@ You can also access the individual items in the collection [on archive.org here]
 
 ## Clips, Quotes and Comments (CQC)
 
-| Date | Title | Link | Notes |
-|------|-------|------|-------|
+| Date ---| Title | Link | Notes |
+|---------|-------|------|-------|
 | 1953-01 | Clips, Quotes and Comments – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
 | 1953-01 | Clips, Quotes and Comments – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) | |
 | 1953-01 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
