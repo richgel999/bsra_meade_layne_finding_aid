@@ -19,7 +19,7 @@ You can also access the individual items in the collection [on archive.org here]
 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
-| 1946-03 | The Flying Roll, Alpha 1 / Beta 1, Mar–Jun 1946 | [View](https://archive.org/details/the_flying_roll_alpha_i_beta_i_march_1946_june_1946) | Source: Reprinting |
+| 1946-03 | The Flying Roll, Alpha 1 / Beta 1, Mar–Jun 1946 | [View](https://archive.org/details/the_flying_roll_alpha_i_beta_i_march_1946_june_1946) | Source: 1971 Reprinting |
 | 1946-09 | The Flying Roll, Gamma 1, Sep 1946 | [View](https://archive.org/details/flying-roll-gamma-1-sept-1946) | |
 | 1946-12 | The Flying Roll, Delta 1, Dec 1946 | [View](https://archive.org/details/flying-roll-delta-1-dec-1946) | |
 | 1947-03 | The Flying Roll, Alpha 2, Mar 1947 | [View](https://archive.org/details/flying-roll-alpha-2-mar-1947) | |
