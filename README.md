@@ -6,10 +6,10 @@ A finding aid for digitized Public Domain publications of the **Borderland Scien
 
 Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) BSRA Collection. (This specific name was on a hand written note on the inside of the box containing the very rare _The Flying Roll_ issues.)
 
-**168 items** in four categories:
+ **171 items** in four categories:
 
 - [The Flying Roll](#the-flying-roll) — 9 items
-- [The Round Robin](#the-round-robin) — 79 items
+- [The Round Robin](#the-round-robin) — 82 items
 - [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc) — 74 items
 - [BSRA - Misc Publications](#bsra---misc-publications) — 6 items
 
