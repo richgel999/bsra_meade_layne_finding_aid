@@ -118,82 +118,82 @@ You can also access the individual items in the collection [on archive.org here]
 
 ## Clips, Quotes and Comments (CQC)
 
-| Date | Title | Link |
-|------|-------|------|
-| 1953-01 | Clips, Quotes and Comments – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) |
-| 1953-01 | Clips, Quotes and Comments – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) |
-| 1953-01 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) |
-| 1953-06 | Clips, Quotes and Comments, A1, Jun 1953 | [View](https://archive.org/details/bsra_CQC_A1_jun_1953) |
-| 1953-09 | Clips, Quotes and Comments, A6 A7, Sep 1953 | [View](https://archive.org/details/bsra_CQC_A6_A7_sep_1953) |
-| 1953-10 | Clips, Quotes and Comments, A8, Oct 1953 | [View](https://archive.org/details/bsra_CQC_a8_oct_1953) |
-| 1953-10 | Clips, Quotes and Comments, A9 A10, Oct–Nov 1953 | [View](https://archive.org/details/bsra_CQC_a9_a10_oct_nov_1953) |
-| 1953-12 | Clips, Quotes and Comments, A11 A12, Dec 1953 | [View](https://archive.org/details/bsra_CQC_a11_a12_dec_1953) |
-| 1954-01 | Clips, Quotes and Comments, B1 B2, Jan 1954 | [View](https://archive.org/details/bsra_CQC_b1_b2_jan_1954) |
-| 1954-02 | Clips, Quotes and Comments, B4, Feb 1954 | [View](https://archive.org/details/bsra_CQC_b4_feb_1954) |
-| 1954-03 | Clips, Quotes and Comments, B5 B6, Mar 1954 | [View](https://archive.org/details/bsra_CQC_b5_b6_mar_1954) |
-| 1954-04 | Clips, Quotes and Comments, B7 B8, Apr 1954 | [View](https://archive.org/details/bsra_CQC_b7_b8_apr_1954) |
-| 1954-05 | Clips, Quotes and Comments, B9 B10, May 1954 | [View](https://archive.org/details/bsra_CQC_b9_b10_may_1954) |
-| 1954-06 | Clips, Quotes and Comments, B11 B12, Jun 1954 | [View](https://archive.org/details/bsra_CQC_b11_b12_jun_1954) |
-| 1954-07 | Clips, Quotes and Comments, C2, Jul 1954 | [View](https://archive.org/details/bsra_CQC_c2_jul_1954) |
-| 1954-08 | Clips, Quotes and Comments, C3 C4, Aug 1954 | [View](https://archive.org/details/bsra_CQC_c3_c4_aug_1954) |
-| 1954-09 | Clips, Quotes and Comments, C5 C6, Sep 1954 | [View](https://archive.org/details/bsra_CQC_c5_c6_sep_1954) |
-| 1954-10 | Clips, Quotes and Comments, C7 C8, Oct 1954 | [View](https://archive.org/details/bsra_CQC_c7_c8_oct_1954) |
-| 1954-11 | Clips, Quotes and Comments, C9, Nov 1954 | [View](https://archive.org/details/bsra_CQC_c9_nov_1954) |
-| 1954-12 | Clips, Quotes and Comments, C11 C12, Dec 1954 | [View](https://archive.org/details/bsra_CQC_c11_c12_dec_1954) |
-| 1955-01 | Clips, Quotes and Comments, D1, Jan 1955 | [View](https://archive.org/details/bsra_CQC_d1_jan_1955) |
-| 1955-01 | Clips, Quotes and Comments, D2 D3, Jan–Feb 1955 | [View](https://archive.org/details/bsra_CQC_d2_d3_jan_feb_1955) |
-| 1955-02 | Clips, Quotes and Comments, D3, Feb–Mar 1955 | [View](https://archive.org/details/bsra_CQC_d3_feb_1955) |
-| 1955-02 | Clips, Quotes and Comments, D4 D5, Feb–Mar 1955 | [View](https://archive.org/details/bsra_CQC_D4_D5_feb_1955) |
-| 1955-03 | Clips, Quotes and Comments, D6 D7, Mar–Apr 1955 | [View](https://archive.org/details/bsra_CQC_D6_D7_mar_apr_1955) |
-| 1955-04 | Clips, Quotes and Comments, D8 D9, Apr–May 1955 | [View](https://archive.org/details/bsra_CQC_D8_D9_apr_may_1955) |
-| 1955-05 | Clips, Quotes and Comments, D10, May 1955 | [View](https://archive.org/details/bsra_CQC_D10_may_1955) |
-| 1955-06 | Clips, Quotes and Comments, D11, Jun 1955 | [View](https://archive.org/details/bsra_CQC_d11_jun_1955) |
-| 1955-06 | Clips, Quotes and Comments, D12, Jun 1955 | [View](https://archive.org/details/bsra_CQC_D12_jun_1955) |
-| 1955-07 | Clips, Quotes and Comments, E1, Jul 1955 | [View](https://archive.org/details/bsra_CQC_e1_jul_1955) |
-| 1955-07 | Clips, Quotes and Comments, E2, Jul 1955 | [View](https://archive.org/details/bsra_CQC_e2_jul_1955) |
-| 1955-08 | Clips, Quotes and Comments, E3, Aug 1955 | [View](https://archive.org/details/bsra_CQC_e3_aug_1955) |
-| 1955-08 | Clips, Quotes and Comments, E4, Aug 1955 | [View](https://archive.org/details/bsra_CQC_e4_aug_1955) |
-| 1955-09 | Clips, Quotes and Comments, E5, Sep 1955 | [View](https://archive.org/details/bsra_CQC_e5_sep_1955) |
-| 1955-09 | Clips, Quotes and Comments, E6, Sep 1955 | [View](https://archive.org/details/bsra_CQC_e6_sep_1955) |
-| 1955-10 | Clips, Quotes and Comments, E7, Oct 1955 | [View](https://archive.org/details/bsra_CQC_e7_oct_1955) |
-| 1955-11 | Clips, Quotes and Comments, E9, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e9_nov_1955) |
-| 1955-11 | Clips, Quotes and Comments, E8, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e8_nov_1955) |
-| 1955-12 | Clips, Quotes and Comments, E10, Dec 1955 | [View](https://archive.org/details/bsra_CQC_e10_dec_1955) |
-| 1956-01 | Clips, Quotes and Comments, E11, Jan 1956 | [View](https://archive.org/details/bsra_CQC_e11_jan_1956) |
-| 1956-01 | Clips, Quotes and Comments, E12, Jan 1956 | [View](https://archive.org/details/bsra_CQC_e12_jan_1956) |
-| 1956-02 | Clips, Quotes and Comments, F1, Feb 1956 | [View](https://archive.org/details/bsra_CQC_f1_feb_1956) |
-| 1956-03 | Clips, Quotes and Comments, F2, Mar 1956 | [View](https://archive.org/details/bsra_CQC_F2_mar_1956) |
-| 1956-03 | Clips, Quotes and Comments, F3, Mar 1956 | [View](https://archive.org/details/bsra_CQC_F3_mar_1956) |
-| 1956-04 | Clips, Quotes and Comments, F4, Apr 1956 | [View](https://archive.org/details/bsra_CQC_F4_Apr_1956) |
-| 1956-05 | Clips, Quotes and Comments, F5, May 1956 | [View](https://archive.org/details/bsra_CQC_F5_May_1956) |
-| 1956-05 | Clips, Quotes and Comments, F6, May 1956 | [View](https://archive.org/details/bsra_CQC_F6_May_1956) |
-| 1956-06 | Clips, Quotes and Comments, F7, Jun 1956 | [View](https://archive.org/details/bsra_CQC_F7_Jun_1956) |
-| 1956-07 | Clips, Quotes and Comments, F8, Jul 1956 | [View](https://archive.org/details/bsra_CQC_F8_Jul_1956) |
-| 1956-07 | Clips, Quotes and Comments, F9, Jul 1956 | [View](https://archive.org/details/bsra_CQC_F9_jul_1956) |
-| 1956-08 | Clips, Quotes and Comments, F10, Aug 1956 | [View](https://archive.org/details/bsra_CQC_f10_aug_1956) |
-| 1956-09 | Clips, Quotes and Comments, F11, Sep 1956 | [View](https://archive.org/details/bsra_CQC_f11_sep_1956) |
-| 1956-10 | Clips, Quotes and Comments, F12, Oct 1956 | [View](https://archive.org/details/bsra_CQC_f12_oct_1956) |
-| 1956-11 | Clips, Quotes and Comments, G1, Nov 1956 | [View](https://archive.org/details/bsra_CQC_g1_nov_1956) |
-| 1956-12 | Clips, Quotes and Comments, G2, Dec 1956 | [View](https://archive.org/details/bsra_CQC_g2_dec_1956) |
-| 1957-01 | Clips, Quotes and Comments, G3, Jan 1957 | [View](https://archive.org/details/bsra_CQC_g3_jan_1957) |
-| 1957-01 | Clips, Quotes and Comments, H1, Jan 1957 | [View](https://archive.org/details/bsra_CQC_h1_jan_1957) |
-| 1957-02 | Clips, Quotes and Comments, G4, Feb 1957 | [View](https://archive.org/details/bsra_CQC_g4_feb_1957) |
-| 1957-03 | Clips, Quotes and Comments, G5, Mar 1957 | [View](https://archive.org/details/bsra_CQC_g5_mar_1957) |
-| 1957-04 | Clips, Quotes and Comments, G6, Apr 1957 | [View](https://archive.org/details/bsra_CQC_g6_apr_1957) |
-| 1957-05 | Clips, Quotes and Comments, G7, May 1957 | [View](https://archive.org/details/bsra_CQC_g7_may_1957) |
-| 1957-06 | Clips, Quotes and Comments, G8, Jun 1957 | [View](https://archive.org/details/bsra_CQC_g8_jun_1957) |
-| 1957-07 | Clips, Quotes and Comments, G9, Jul 1957 | [View](https://archive.org/details/bsra_CQC_g9_jul_1957) |
-| 1957-08 | Clips, Quotes and Comments, G10, Aug 1957 | [View](https://archive.org/details/bsra_CQC_g10_aug_1957) |
-| 1957-09 | Clips, Quotes and Comments, G11, Sep 1957 | [View](https://archive.org/details/bsra_CQC_g11_sep_1957) |
-| 1957-11 | Clips, Quotes and Comments, G12, Nov 1957 | [View](https://archive.org/details/bsra_CQC_g12_nov_1957) |
-| 1958-02 | Clips, Quotes and Comments, H2, Feb 1958 | [View](https://archive.org/details/bsra_CQC_h2_feb_1958) |
-| 1958-03 | Clips, Quotes and Comments, H3, Mar 1958 | [View](https://archive.org/details/bsra_CQC_h3_mar_1958) |
-| 1958-04 | Clips, Quotes and Comments, H4, Apr 1958 | [View](https://archive.org/details/bsra_CQC_h4_apr_1958) |
-| 1958-05 | Clips, Quotes and Comments, H5, May 1958 | [View](https://archive.org/details/bsra_CQC_h5_may_1958) |
-| 1958-06 | Clips, Quotes and Comments, H6, Jun 1958 | [View](https://archive.org/details/bsra_CQC_h6_jun_1958) |
-| 1958-07 | Clips, Quotes and Comments, H7, Jul 1958 | [View](https://archive.org/details/bsra_CQC_h7_jul_1958) |
-| 1958-09 | Clips, Quotes and Comments, H8, Sep 1958 | [View](https://archive.org/details/bsra_CQC_h8_sep_1958) |
-| 1958-10 | Clips, Quotes and Comments, H9, Oct 1958 | [View](https://archive.org/details/bsra_CQC_h9_oct_1958) |
+| Date | Title | Link | Notes |
+|------|-------|------|-------|
+| 1953-01 | Clips, Quotes and Comments – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
+| 1953-01 | Clips, Quotes and Comments – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) | |
+| 1953-01 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
+| 1953-06 | Clips, Quotes and Comments, A1, Jun 1953 | [View](https://archive.org/details/bsra_CQC_A1_jun_1953) | |
+| 1953-09 | Clips, Quotes and Comments, A6 A7, Sep 1953 | [View](https://archive.org/details/bsra_CQC_A6_A7_sep_1953) | |
+| 1953-10 | Clips, Quotes and Comments, A8, Oct 1953 | [View](https://archive.org/details/bsra_CQC_a8_oct_1953) | |
+| 1953-10 | Clips, Quotes and Comments, A9 A10, Oct–Nov 1953 | [View](https://archive.org/details/bsra_CQC_a9_a10_oct_nov_1953) | |
+| 1953-12 | Clips, Quotes and Comments, A11 A12, Dec 1953 | [View](https://archive.org/details/bsra_CQC_a11_a12_dec_1953) | |
+| 1954-01 | Clips, Quotes and Comments, B1 B2, Jan 1954 | [View](https://archive.org/details/bsra_CQC_b1_b2_jan_1954) | |
+| 1954-02 | Clips, Quotes and Comments, B4, Feb 1954 | [View](https://archive.org/details/bsra_CQC_b4_feb_1954) | |
+| 1954-03 | Clips, Quotes and Comments, B5 B6, Mar 1954 | [View](https://archive.org/details/bsra_CQC_b5_b6_mar_1954) | |
+| 1954-04 | Clips, Quotes and Comments, B7 B8, Apr 1954 | [View](https://archive.org/details/bsra_CQC_b7_b8_apr_1954) | |
+| 1954-05 | Clips, Quotes and Comments, B9 B10, May 1954 | [View](https://archive.org/details/bsra_CQC_b9_b10_may_1954) | |
+| 1954-06 | Clips, Quotes and Comments, B11 B12, Jun 1954 | [View](https://archive.org/details/bsra_CQC_b11_b12_jun_1954) | |
+| 1954-07 | Clips, Quotes and Comments, C2, Jul 1954 | [View](https://archive.org/details/bsra_CQC_c2_jul_1954) | |
+| 1954-08 | Clips, Quotes and Comments, C3 C4, Aug 1954 | [View](https://archive.org/details/bsra_CQC_c3_c4_aug_1954) | |
+| 1954-09 | Clips, Quotes and Comments, C5 C6, Sep 1954 | [View](https://archive.org/details/bsra_CQC_c5_c6_sep_1954) | |
+| 1954-10 | Clips, Quotes and Comments, C7 C8, Oct 1954 | [View](https://archive.org/details/bsra_CQC_c7_c8_oct_1954) | |
+| 1954-11 | Clips, Quotes and Comments, C9, Nov 1954 | [View](https://archive.org/details/bsra_CQC_c9_nov_1954) | |
+| 1954-12 | Clips, Quotes and Comments, C11 C12, Dec 1954 | [View](https://archive.org/details/bsra_CQC_c11_c12_dec_1954) | |
+| 1955-01 | Clips, Quotes and Comments, D1, Jan 1955 | [View](https://archive.org/details/bsra_CQC_d1_jan_1955) | |
+| 1955-01 | Clips, Quotes and Comments, D2 D3, Jan–Feb 1955 | [View](https://archive.org/details/bsra_CQC_d2_d3_jan_feb_1955) | |
+| 1955-02 | Clips, Quotes and Comments, D3, Feb–Mar 1955 | [View](https://archive.org/details/bsra_CQC_d3_feb_1955) | |
+| 1955-02 | Clips, Quotes and Comments, D4 D5, Feb–Mar 1955 | [View](https://archive.org/details/bsra_CQC_D4_D5_feb_1955) | |
+| 1955-03 | Clips, Quotes and Comments, D6 D7, Mar–Apr 1955 | [View](https://archive.org/details/bsra_CQC_D6_D7_mar_apr_1955) | |
+| 1955-04 | Clips, Quotes and Comments, D8 D9, Apr–May 1955 | [View](https://archive.org/details/bsra_CQC_D8_D9_apr_may_1955) | |
+| 1955-05 | Clips, Quotes and Comments, D10, May 1955 | [View](https://archive.org/details/bsra_CQC_D10_may_1955) | |
+| 1955-06 | Clips, Quotes and Comments, D11, Jun 1955 | [View](https://archive.org/details/bsra_CQC_d11_jun_1955) | |
+| 1955-06 | Clips, Quotes and Comments, D12, Jun 1955 | [View](https://archive.org/details/bsra_CQC_D12_jun_1955) | |
+| 1955-07 | Clips, Quotes and Comments, E1, Jul 1955 | [View](https://archive.org/details/bsra_CQC_e1_jul_1955) | |
+| 1955-07 | Clips, Quotes and Comments, E2, Jul 1955 | [View](https://archive.org/details/bsra_CQC_e2_jul_1955) | |
+| 1955-08 | Clips, Quotes and Comments, E3, Aug 1955 | [View](https://archive.org/details/bsra_CQC_e3_aug_1955) | |
+| 1955-08 | Clips, Quotes and Comments, E4, Aug 1955 | [View](https://archive.org/details/bsra_CQC_e4_aug_1955) | |
+| 1955-09 | Clips, Quotes and Comments, E5, Sep 1955 | [View](https://archive.org/details/bsra_CQC_e5_sep_1955) | |
+| 1955-09 | Clips, Quotes and Comments, E6, Sep 1955 | [View](https://archive.org/details/bsra_CQC_e6_sep_1955) | |
+| 1955-10 | Clips, Quotes and Comments, E7, Oct 1955 | [View](https://archive.org/details/bsra_CQC_e7_oct_1955) | |
+| 1955-11 | Clips, Quotes and Comments, E9, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e9_nov_1955) | |
+| 1955-11 | Clips, Quotes and Comments, E8, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e8_nov_1955) | |
+| 1955-12 | Clips, Quotes and Comments, E10, Dec 1955 | [View](https://archive.org/details/bsra_CQC_e10_dec_1955) | |
+| 1956-01 | Clips, Quotes and Comments, E11, Jan 1956 | [View](https://archive.org/details/bsra_CQC_e11_jan_1956) | |
+| 1956-01 | Clips, Quotes and Comments, E12, Jan 1956 | [View](https://archive.org/details/bsra_CQC_e12_jan_1956) | |
+| 1956-02 | Clips, Quotes and Comments, F1, Feb 1956 | [View](https://archive.org/details/bsra_CQC_f1_feb_1956) | |
+| 1956-03 | Clips, Quotes and Comments, F2, Mar 1956 | [View](https://archive.org/details/bsra_CQC_F2_mar_1956) | |
+| 1956-03 | Clips, Quotes and Comments, F3, Mar 1956 | [View](https://archive.org/details/bsra_CQC_F3_mar_1956) | |
+| 1956-04 | Clips, Quotes and Comments, F4, Apr 1956 | [View](https://archive.org/details/bsra_CQC_F4_Apr_1956) | |
+| 1956-05 | Clips, Quotes and Comments, F5, May 1956 | [View](https://archive.org/details/bsra_CQC_F5_May_1956) | |
+| 1956-05 | Clips, Quotes and Comments, F6, May 1956 | [View](https://archive.org/details/bsra_CQC_F6_May_1956) | |
+| 1956-06 | Clips, Quotes and Comments, F7, Jun 1956 | [View](https://archive.org/details/bsra_CQC_F7_Jun_1956) | |
+| 1956-07 | Clips, Quotes and Comments, F8, Jul 1956 | [View](https://archive.org/details/bsra_CQC_F8_Jul_1956) | |
+| 1956-07 | Clips, Quotes and Comments, F9, Jul 1956 | [View](https://archive.org/details/bsra_CQC_F9_jul_1956) | |
+| 1956-08 | Clips, Quotes and Comments, F10, Aug 1956 | [View](https://archive.org/details/bsra_CQC_f10_aug_1956) | |
+| 1956-09 | Clips, Quotes and Comments, F11, Sep 1956 | [View](https://archive.org/details/bsra_CQC_f11_sep_1956) | |
+| 1956-10 | Clips, Quotes and Comments, F12, Oct 1956 | [View](https://archive.org/details/bsra_CQC_f12_oct_1956) | |
+| 1956-11 | Clips, Quotes and Comments, G1, Nov 1956 | [View](https://archive.org/details/bsra_CQC_g1_nov_1956) | |
+| 1956-12 | Clips, Quotes and Comments, G2, Dec 1956 | [View](https://archive.org/details/bsra_CQC_g2_dec_1956) | |
+| 1957-01 | Clips, Quotes and Comments, G3, Jan 1957 | [View](https://archive.org/details/bsra_CQC_g3_jan_1957) | |
+| 1957-02 | Clips, Quotes and Comments, G4, Feb 1957 | [View](https://archive.org/details/bsra_CQC_g4_feb_1957) | |
+| 1957-03 | Clips, Quotes and Comments, G5, Mar 1957 | [View](https://archive.org/details/bsra_CQC_g5_mar_1957) | |
+| 1957-04 | Clips, Quotes and Comments, G6, Apr 1957 | [View](https://archive.org/details/bsra_CQC_g6_apr_1957) | |
+| 1957-05 | Clips, Quotes and Comments, G7, May 1957 | [View](https://archive.org/details/bsra_CQC_g7_may_1957) | |
+| 1957-06 | Clips, Quotes and Comments, G8, Jun 1957 | [View](https://archive.org/details/bsra_CQC_g8_jun_1957) | |
+| 1957-07 | Clips, Quotes and Comments, G9, Jul 1957 | [View](https://archive.org/details/bsra_CQC_g9_jul_1957) | |
+| 1957-08 | Clips, Quotes and Comments, G10, Aug 1957 | [View](https://archive.org/details/bsra_CQC_g10_aug_1957) | |
+| 1957-09 | Clips, Quotes and Comments, G11, Sep 1957 | [View](https://archive.org/details/bsra_CQC_g11_sep_1957) | |
+| 1957-11 | Clips, Quotes and Comments, G12, Nov 1957 | [View](https://archive.org/details/bsra_CQC_g12_nov_1957) | |
+| 1958-01 | Clips, Quotes and Comments, H1, Jan 1958 | [View](https://archive.org/details/bsra_CQC_h1_jan_1957) | "1957" on original scanned TOC page and the filename is incorrect, it's actually 1/1958 |
+| 1958-02 | Clips, Quotes and Comments, H2, Feb 1958 | [View](https://archive.org/details/bsra_CQC_h2_feb_1958) | |
+| 1958-03 | Clips, Quotes and Comments, H3, Mar 1958 | [View](https://archive.org/details/bsra_CQC_h3_mar_1958) | |
+| 1958-04 | Clips, Quotes and Comments, H4, Apr 1958 | [View](https://archive.org/details/bsra_CQC_h4_apr_1958) | |
+| 1958-05 | Clips, Quotes and Comments, H5, May 1958 | [View](https://archive.org/details/bsra_CQC_h5_may_1958) | |
+| 1958-06 | Clips, Quotes and Comments, H6, Jun 1958 | [View](https://archive.org/details/bsra_CQC_h6_jun_1958) | |
+| 1958-07 | Clips, Quotes and Comments, H7, Jul 1958 | [View](https://archive.org/details/bsra_CQC_h7_jul_1958) | |
+| 1958-09 | Clips, Quotes and Comments, H8, Sep 1958 | [View](https://archive.org/details/bsra_CQC_h8_sep_1958) | |
+| 1958-10 | Clips, Quotes and Comments, H9, Oct 1958 | [View](https://archive.org/details/bsra_CQC_h9_oct_1958) | |
 
 ## BSRA - Misc Publications
 
