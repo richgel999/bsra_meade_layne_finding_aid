@@ -158,8 +158,8 @@ You can also access most of the individual items in the collection [on archive.o
 | 1955-09 | Clips, Quotes and Comments, E5, Sep 1955 | [View](https://archive.org/details/bsra_CQC_e5_sep_1955) | |
 | 1955-09 | Clips, Quotes and Comments, E6, Sep 1955 | [View](https://archive.org/details/bsra_CQC_e6_sep_1955) | |
 | 1955-10 | Clips, Quotes and Comments, E7, Oct 1955 | [View](https://archive.org/details/bsra_CQC_e7_oct_1955) | |
-| 1955-11 | Clips, Quotes and Comments, E9, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e9_nov_1955) | |
 | 1955-11 | Clips, Quotes and Comments, E8, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e8_nov_1955) | |
+| 1955-11 | Clips, Quotes and Comments, E9, Nov 1955 | [View](https://archive.org/details/bsra_CQC_e9_nov_1955) | |
 | 1955-12 | Clips, Quotes and Comments, E10, Dec 1955 | [View](https://archive.org/details/bsra_CQC_e10_dec_1955) | |
 | 1956-01 | Clips, Quotes and Comments, E11, Jan 1956 | [View](https://archive.org/details/bsra_CQC_e11_jan_1956) | |
 | 1956-01 | Clips, Quotes and Comments, E12, Jan 1956 | [View](https://archive.org/details/bsra_CQC_e12_jan_1956) | |
