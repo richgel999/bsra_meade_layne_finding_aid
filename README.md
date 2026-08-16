@@ -224,6 +224,7 @@ I've found a source for the remaining V15 issues, and some of the earliest missi
 - RR V13N1 - found (AFU)
 - RR V14N5 - found (AFU)
 - RR V14N6 - found (AFU)
+- RR V15 - found (AFU), [partial digital version](https://borderlandsciences.org/journal/vol/15/index.html)
 - CQC A2 - found (AFU)
 - CQC A3
 - CQC A4 - found (AFU)
