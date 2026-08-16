@@ -120,7 +120,7 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## Clips, Quotes and Comments (CQC)
 
-| Date ---| Title | Link | Notes |
+| Date    | Title | Link | Notes |
 |---------|-------|------|-------|
 | 1953-01 | Clips, Quotes and Comments – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
 | 1953-01 | Clips, Quotes and Comments – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) | |
@@ -199,14 +199,14 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## BSRA - Misc Publications
 
-| Date | Title | Link |
-|------|-------|------|
-| 1948-01 | Series 8 Seance Memoranda, late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) |
-| 1949-08 | BSRA – The Mystery Of The Flying Discs | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) |
-| 1950-01 | BSRA The Ether Ship Mystery and Its Solution (with Millen Cooke) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) |
-| 1950-10 | BSRA Release 10-A-50 "Behind The Flying Saucers" | [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) |
-| 1958-01 | BSRA – Return of the Dove | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) |
-| 1958-02 | BSRA Memo, Feb 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) |
+| Date | Title | Link | Notes |
+|------|-------|------|-------|
+| 1948-01 | Series 8 Seance Memoranda, late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
+| 1949-08 | BSRA – The Mystery Of The Flying Discs | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
+| 1950-01 | BSRA The Ether Ship Mystery and Its Solution (with Millen Cooke) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950) |
+| 1950-10 | BSRA Release 10-A-50 "Behind The Flying Saucers" | [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
+| 1958-01 | BSRA – Return of the Dove | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
+| 1958-02 | BSRA Memo, Feb 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
 
 ## WANTED / Missing Round Robin Issues
 
