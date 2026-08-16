@@ -207,6 +207,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1950-10 | BSRA Release 10-A-50 "Behind The Flying Saucers" | [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1958-01 | BSRA – "Return of the Dove" book Coverage | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | BSRA Memo, Feb 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
+| 1954-08 | BSRA CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From AFU |
 
 ## WANTED / Missing Round Robin Issues
 
