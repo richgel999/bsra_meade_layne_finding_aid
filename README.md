@@ -212,7 +212,7 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## WANTED / Missing Round Robin/CQC Issues
 
-I've found a source for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
+I've found a source (AFU) for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
 
 - RR V1N2-V1N11 - [digital versions](https://borderlandsciences.org/journal/vol/01/index.html)
 - RR V3N3 - [digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
@@ -228,10 +228,9 @@ I've found a source for the remaining V15 issues, and some of the earliest missi
 - CQC A2 - found (AFU)
 - CQC A3
 - CQC A4 - found (AFU)
-- CQC A5 - front cover [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
+- CQC A5 - front cover (AFU) [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
 - CQC B3
 - CQC C1
 - CQC C10
   
-
-
+The issues marked "found" will be digitized once they arrive.
