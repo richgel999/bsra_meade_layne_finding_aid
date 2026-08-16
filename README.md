@@ -214,6 +214,7 @@ You can also access most of the individual items in the collection [on archive.o
 
 I've found a source for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
 
+- RR V1N2-V1N11 - [digital versions](https://borderlandsciences.org/journal/vol/01/index.html)
 - RR V3N3 - [digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
 - RR V6N4 
 - RR V7N1 - found (private holder)
