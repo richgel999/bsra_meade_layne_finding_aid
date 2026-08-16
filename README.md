@@ -210,15 +210,23 @@ You can also access most of the individual items in the collection [on archive.o
 | 1958-01 | On the book "Return of the Dove" by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
 
-## WANTED / Missing Round Robin Issues
+## WANTED / Missing Round Robin/CQC Issues
 
 I've found a source for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
 
-- V6N4 
-- V7N1 - found (private holder)
-- V8N3 - found (AFU)
-- V8N4 - found (AFU)
-- V9N4 - found (AFU)
-- V13N1 - found (AFU)
-- V14N5 - found (AFU)
-- V14N6 - found (AFU)
+- RR V6N4 
+- RR V7N1 - found (private holder)
+- RR V8N3 - found (AFU)
+- RR V8N4 - found (AFU)
+- RR V9N4 - found (AFU)
+- RR V13N1 - found (AFU)
+- RR V14N5 - found (AFU)
+- RR V14N6 - found (AFU)
+- CQC A2 - found (AFU)
+- CQC A3
+- CQC A4 - found (AFU)
+- CQC A5
+- CQC B3
+- CQC C1
+- CQC C10
+  
