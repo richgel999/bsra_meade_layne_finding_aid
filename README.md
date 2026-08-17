@@ -239,5 +239,5 @@ The issues marked "found" will be digitized once they arrive.
 
 - [AFU](https://anomalyarchives.org/links/other-archives/afu-archives-for-the-unexplained/) - They also have the BSRA _internal_ archive, both physical and digitized on their file server
 - [Leon Davidson Collection at Columbia University](https://www.columbia.edu/cu/libraries/inside/projects/findingaids/scans/pdfs/13_DA-DE_05.pdf) - Stored on Stack 15, Cage 23, Range 26
-- California State Library's California History Room, see [here](http://www.joshuablubuhs.com/blog/newton-meade-layne-as-fortean) or [here](https://ufoarchives.blogspot.com/2014/03/round-robin-and-contactee-history.html)
+- [California State Library's California History Room](https://www.library.ca.gov/california-history/), see [here](http://www.joshuablubuhs.com/blog/newton-meade-layne-as-fortean) or [here](https://ufoarchives.blogspot.com/2014/03/round-robin-and-contactee-history.html)
 - The [National Historic UFO Records Center](https://nufohrc.org/) has a BSRA collection of unknown size
