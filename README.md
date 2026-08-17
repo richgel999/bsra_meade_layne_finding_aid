@@ -241,4 +241,4 @@ The issues marked "found" will be digitized once they arrive.
 - [Leon Davidson Collection at Columbia University](https://www.columbia.edu/cu/libraries/inside/projects/findingaids/scans/pdfs/13_DA-DE_05.pdf) - Stored on Stack 15, Cage 23, Range 26
 - [California State Library's California History Room](https://www.library.ca.gov/california-history/) - See [here](http://www.joshuablubuhs.com/blog/newton-meade-layne-as-fortean) or [here](https://ufoarchives.blogspot.com/2014/03/round-robin-and-contactee-history.html)
 - The [National Historic UFO Records Center](https://nufohrc.org/) has a BSRA collection of unknown size
-- I've heard the [International UFO Museum And Research Center](https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/) _may_ have a collection of "Round Robin" issues
+- I've heard the [International UFO Museum And Research Center](https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/) at Roswell NM _may_ have a collection of "Round Robin" issues
