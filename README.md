@@ -235,7 +235,7 @@ I've found a source (AFU) for the remaining V15 issues, and some of the earliest
   
 The issues marked "found" will be digitized once they arrive.
 
-## Known Issue Collections
+## Other Known Physical Issue Collections
 
 - [AFU](https://anomalyarchives.org/links/other-archives/afu-archives-for-the-unexplained/) - They also have the BSRA _internal_ archive, both physical and digitized on their file server
 - [Leon Davidson Collection at Columbia University](https://www.columbia.edu/cu/libraries/inside/projects/findingaids/scans/pdfs/13_DA-DE_05.pdf) - Stored on Stack 15, Cage 23, Range 26
