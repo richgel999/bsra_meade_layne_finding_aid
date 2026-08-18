@@ -242,3 +242,4 @@ The issues marked "found" will be digitized once they arrive.
 - [California State Library's California History Room](https://www.library.ca.gov/california-history/) - See [here](http://www.joshuablubuhs.com/blog/newton-meade-layne-as-fortean) or [here](https://ufoarchives.blogspot.com/2014/03/round-robin-and-contactee-history.html)
 - The [National Historic UFO Records Center](https://nufohrc.org/) has a BSRA collection of unknown size
 - I've heard the [International UFO Museum And Research Center](https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/) at Roswell NM _may_ have a collection of "Round Robin" issues
+- [Archives and Special Collections of the University of Ottawa](https://arcs-atom.uottawa.ca/index.php/borderland-science-research-associates-b-s-r-a-san-diego-california) - Bray, Arthur, Box File Number 4, 7
