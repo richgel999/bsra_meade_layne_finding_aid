@@ -124,6 +124,8 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## Clips, Quotes and Comments (CQC)
 
+<img width="582" height="561" alt="image" src="https://github.com/user-attachments/assets/30edef8d-9cf3-4d98-b35d-ccda0a704342" />
+
 | Date    | Title | Link | Notes |
 |---------|-------|------|-------|
 | 1953-01 | Clips, Quotes and Comments – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
