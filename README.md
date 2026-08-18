@@ -17,6 +17,8 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## The Flying Roll
 
+<img width="591" height="345" alt="image" src="https://github.com/user-attachments/assets/c54afa65-2e74-4df5-bf0b-698173237c8a" />
+
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
 | 1946-03 | The Flying Roll, Alpha 1 / Beta 1, Mar–Jun 1946 | [View](https://archive.org/details/the_flying_roll_alpha_i_beta_i_march_1946_june_1946) | Source: 1971 Reprinting |
