@@ -197,7 +197,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1958-09 | Clips, Quotes and Comments, H8, Sep 1958 | [View](https://archive.org/details/bsra_CQC_h8_sep_1958) | |
 | 1958-10 | Clips, Quotes and Comments, H9, Oct 1958 | [View](https://archive.org/details/bsra_CQC_h9_oct_1958) | |
 
-## BSRA - Misc Publications
+## Misc Issues, Publications, Letters
 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
@@ -209,6 +209,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From [AFU](https://www.afu.se/) |
 | 1958-01 | On the book "Return of the Dove" by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
+| 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
 
 ## WANTED / Missing Round Robin/CQC Issues
 
