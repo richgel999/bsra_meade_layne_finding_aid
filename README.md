@@ -31,6 +31,8 @@ You can also access most of the individual items in the collection [on archive.o
 
 ## The Round Robin
 
+<img width="961" height="260" alt="image" src="https://github.com/user-attachments/assets/fcd00d89-70b8-48aa-a4fa-5fd0eda3bf98" />
+
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
 | 1945-01 | The Round Robin – collected journals (overview item) | [View](https://archive.org/details/round_robin_v3_n5_may_jun_1947) | Some filenames/titles incorrect, "V7" is actually V12 |
