@@ -212,7 +212,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1946-10 | Kareeta: _Hanford Morning Journal_, Hanford, California, Tue, Oct 15, 1946, Page 1: "Was a Space Ship Seen in San Diego?" | [View](https://www.newspapers.com/article/hanford-morning-journal-kareeta/153063454/) | There are other clippings |
 | 1948-01 | Series 8 "Seance Memoranda", late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
 | 1949-08 | "The Mystery Of The Flying Discs" | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
-| 1950-01 | "The Ether Ship Mystery and Its Solution" (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950) |
+| 1950-01 | "The Ether Ship Mystery and Its Solution" (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, Edward S. Schultz, and Max Freedom Long|
 | 1950-10 | Release 10-A-50, on "Behind The Flying Saucers" by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From [AFU](https://www.afu.se/) |
 | 1958-01 | On the book "Return of the Dove" by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
