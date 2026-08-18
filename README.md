@@ -202,6 +202,7 @@ You can also access most of the individual items in the collection [on archive.o
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
 | 1945-01 | Several missing V1/V2 issues | [View](https://archive.org/details/round_robin_1945_digital) | Digital Transcriptions of V1N2-V1N11 and V2N3 (Unknown Quality, download all PDF files to view), or see [here](https://borderlandsciences.org/journal/vol/01/index.html) |
+| 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
 | 1948-01 | Series 8 "Seance Memoranda", late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
 | 1949-08 | "The Mystery Of The Flying Discs" | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
 | 1950-01 | "The Ether Ship Mystery and Its Solution" (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950) |
@@ -209,7 +210,6 @@ You can also access most of the individual items in the collection [on archive.o
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From [AFU](https://www.afu.se/) |
 | 1958-01 | On the book "Return of the Dove" by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
-| 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
 
 ## WANTED / Missing Round Robin/CQC Issues
 
