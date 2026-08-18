@@ -209,6 +209,7 @@ You can also access most of the individual items in the collection [on archive.o
 |------|-------|------|-------|
 | 1945-01 | Several missing V1/V2 issues | [View](https://archive.org/details/round_robin_1945_digital) | Digital Transcriptions of V1N2-V1N11 and V2N3 (Unknown Quality, download all PDF files to view), or see [here](https://borderlandsciences.org/journal/vol/01/index.html) |
 | 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
+| 1946-10 | Kareeta: _Hanford Morning Journal_, Hanford, California, Tue, Oct 15, 1946, Page 1: "Was a Space Ship Seen in San Diego?" | [View](https://www.newspapers.com/article/hanford-morning-journal-kareeta/153063454/) | There are other clippings |
 | 1948-01 | Series 8 "Seance Memoranda", late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
 | 1949-08 | "The Mystery Of The Flying Discs" | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
 | 1950-01 | "The Ether Ship Mystery and Its Solution" (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950) |
