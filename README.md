@@ -211,12 +211,12 @@ You can also access most of the individual items in the collection [on archive.o
 | 1945-01 | Several missing V1/V2 issues | [View](https://archive.org/details/round_robin_1945_digital) | Digital Transcriptions of V1N2-V1N11 and V2N3 (Unknown Quality), or see [here](https://borderlandsciences.org/journal/vol/01/index.html) |
 | 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
 | 1946-10 | Kareeta: _Hanford Morning Journal_, Hanford, California, Tue, Oct 15, 1946, Page 1: "Was a Space Ship Seen in San Diego?" | [View](https://www.newspapers.com/article/hanford-morning-journal-kareeta/153063454/) | There are other clippings |
-| 1948-01 | Series 8 "Seance Memoranda", late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
-| 1949-08 | "The Mystery Of The Flying Discs" | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
-| 1950-01 | "The Ether Ship Mystery and Its Solution" (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, Edward S. Schultz, and Max Freedom Long|
-| 1950-10 | Release 10-A-50, on "Behind The Flying Saucers" by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
+| 1948-01 | Series 8 _Seance Memoranda_, late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
+| 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
+| 1950-01 | _The Ether Ship Mystery and Its Solution_ (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, Edward S. Schultz, and Max Freedom Long|
+| 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From [AFU](https://www.afu.se/) |
-| 1958-01 | On the book "Return of the Dove" by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
+| 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
 
 ## WANTED / Missing Round Robin/CQC Issues
@@ -250,5 +250,5 @@ The issues marked "found" will be digitized once they arrive.
 - [Leon Davidson Collection at Columbia University](https://www.columbia.edu/cu/libraries/inside/projects/findingaids/scans/pdfs/13_DA-DE_05.pdf) - Stored on Stack 15, Cage 23, Range 26
 - [California State Library's California History Room](https://www.library.ca.gov/california-history/) - See [here](http://www.joshuablubuhs.com/blog/newton-meade-layne-as-fortean) or [here](https://ufoarchives.blogspot.com/2014/03/round-robin-and-contactee-history.html)
 - The [National Historic UFO Records Center](https://nufohrc.org/) has a BSRA collection of unknown size
-- I've heard the [International UFO Museum And Research Center](https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/) at Roswell NM _may_ have a collection of "Round Robin" issues
+- I've heard the [International UFO Museum And Research Center](https://seeroswell.com/museums-attractions/international-ufo-museum-research-center/) at Roswell NM _may_ have a collection of _Round Robin_ issues
 - [Archives and Special Collections of the University of Ottawa](https://arcs-atom.uottawa.ca/index.php/borderland-science-research-associates-b-s-r-a-san-diego-california) - Bray, Arthur, Box File Number 4, 7
