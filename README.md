@@ -216,6 +216,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
 | 1950-01 | _The Ether Ship Mystery and Its Solution_ (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, [Edward S. Schultz](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/item/23571), and Max Freedom Long|
 | 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
+| 1951-01 | "Project Survival and Service" | [View](https://archive.org/details/bsra-project-ss-1951) | Page labeled "KC-2-51" |
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From [AFU](https://www.afu.se/) |
 | 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
