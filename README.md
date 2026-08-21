@@ -6,12 +6,12 @@ A finding aid for digitized Public Domain publications of the **Borderland Scien
 
 Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) BSRA Collection, purchased from a collector on Ebay. (This specific name was on a hand written note on the inside of the box containing the very rare _The Flying Roll_ issues, so I decided to name it after him.) A few of the issues were digitized from purchases made from the [AFU Shop](https://www.afushop.se/en) in Sweden, eBay, [Abe Books](https://www.abebooks.com/), or Amazon, or downloaded from the [IAPSOP](https://iapsop.com/). A very useful tool has been [find-more-books.com](https://www.find-more-books.com/). It's taken years to track down and scan this collection.
 
- **173 items** in four categories:
+ **Over 170 items** in four categories:
 
-- [The Flying Roll](#the-flying-roll) — 9 items
-- [The Round Robin](#the-round-robin) — 84 items
-- [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc) — 74 items
-- [BSRA - Misc Publications](#misc-issues-publications-letters) — 8 items
+- [The Flying Roll](#the-flying-roll)
+- [The Round Robin](#the-round-robin)
+- [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc)
+- [BSRA - Misc Publications](#misc-issues-publications-letters)
 
 You can also access most of the individual items in the collection [on archive.org here](https://archive.org/search?query=creator%3A%22Meade+Layne%22).
 
