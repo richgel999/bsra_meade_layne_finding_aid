@@ -78,6 +78,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1950-06 | _The Round Robin_, V6 N3, Jun 1950 | [View](https://archive.org/details/the-round-robin-v-6-n-3-jun-1950) | |
 | 1951-01 | _The Round Robin_, V6 N5, Jan–Feb 1951 | [View](https://archive.org/details/round_robin_v6_n5_jan_feb_1951) | |
 | 1951-03 | _The Round Robin_, V6 N6, Mar-Apr 1951 | [View](https://archive.org/details/round_robin_v6_n6_mar_apr_1951) | |
+| 1951-05 | _The Round Robin_, V7 N1, May-Jun 1951 | [View](https://archive.org/details/round_robin_v7_n1_may_jun_1951) | |
 | 1951-07 | _The Round Robin_, V7 N2, Jul–Aug 1951 | [View](https://archive.org/details/round_robin_v7_n2_jul_aug_1951) | |
 | 1951-09 | _The Round Robin_, V7 N3, Sep–Oct 1951 | [View](https://archive.org/details/round_robin_v7_n3_sept_oct_1951) | |
 | 1951-11 | _The Round Robin_, V7 N4, Nov–Dec 1951 | [View](https://archive.org/details/round_robin_v7_n4_nov_dec_1951) | |
@@ -226,7 +227,6 @@ I've found a source (AFU) for the remaining V15 issues, and some of the earliest
 - RR V1N2-V1N11 - [digital versions](https://borderlandsciences.org/journal/vol/01/index.html)
 - RR V3N3 - [digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
 - RR V6N4 
-- RR V7N1 - found (private holder)
 - RR V8N3 - found (AFU)
 - RR V8N4 - found (AFU)
 - RR V9N4 - found (AFU)
