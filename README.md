@@ -218,7 +218,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1951-01 | "Project Survival and Service" | [View](https://archive.org/details/bsra-project-ss-1951) | Page labeled "KC-2-51" |
 | 1951-01 | Bylaws | [View](https://archive.org/details/bsrf-inc-bylaws-180) | |
-| 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | From [AFU](https://www.afu.se/) |
+| 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | Issue from [AFU Shop](https://www.afu.se/) |
 | 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
 
