@@ -215,7 +215,8 @@ You can also access most of the individual items in the collection [on archive.o
 | 1948-01 | Series 8 _Seance Memoranda_, late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
 | 1949-07 | Various 1949-1950 newspaper clippings | [View](https://archive.org/details/500424-cleveland-plain-dealer-bsra) | |
 | 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
-| 1950-01 | _The Ether Ship Mystery and Its Solution_ (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, [Edward S. Schultz](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/item/23571), and Max Freedom Long|
+| 1950-01 | _The Ether Ship Mystery and Its Solution_ (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, [Edward S. Schultz](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/item/23571), and Max Freedom Long |
+| 1950-07 | 1950-07-05 Letter from Meade Layne to President Harry S. Truman |  [View](https://archive.org/details/500705-letter-from-meade-layne-to-harry-s-truman) | |
 | 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1951-01 | "Project Survival and Service" | [View](https://archive.org/details/bsra-project-ss-1951) | Page labeled "KC-2-51" |
 | 1951-01 | Bylaws | [View](https://archive.org/details/bsrf-inc-bylaws-180) | |
