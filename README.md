@@ -11,7 +11,7 @@ Much of this was digitized from the [Frederick Clark Durant III](https://en.wiki
 - [The Flying Roll](#the-flying-roll) — 9 items
 - [The Round Robin](#the-round-robin) — 84 items
 - [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc) — 74 items
-- [BSRA - Misc Publications](#bsra---misc-publications) — 8 items
+- [BSRA - Misc Publications](#misc-issues-publications-letters) — 8 items
 
 You can also access most of the individual items in the collection [on archive.org here](https://archive.org/search?query=creator%3A%22Meade+Layne%22).
 
