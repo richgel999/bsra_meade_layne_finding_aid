@@ -82,12 +82,13 @@ You can also access most of the individual items in the collection [on archive.o
 | 1951-07 | _The Round Robin_, V7 N2, Jul–Aug 1951 | [View](https://archive.org/details/round_robin_v7_n2_jul_aug_1951) | |
 | 1951-09 | _The Round Robin_, V7 N3, Sep–Oct 1951 | [View](https://archive.org/details/round_robin_v7_n3_sept_oct_1951) | |
 | 1951-11 | _The Round Robin_, V7 N4, Nov–Dec 1951 | [View](https://archive.org/details/round_robin_v7_n4_nov_dec_1951) | |
-| 1952-01 | _The Round Robin_ – misc. papers, early 1950s | [View](https://archive.org/details/bsra_misc_1950s) | |
+| 1952-01 | _The Round Robin_ – Misc. papers, early 1950s | [View](https://archive.org/details/bsra_misc_1950s) | |
 | 1952-01 | _The Round Robin_, V7 N5, Jan 1952 | [View](https://archive.org/details/the-round-robin-v-7-n-5-jan-1952) | |
 | 1952-03 | _The Round Robin_, V7 N6, Mar 1952 | [View](https://archive.org/details/the-round-robin-v-7-n-6-mar-1952) | |
 | 1952-05 | _The Round Robin_, V8 N1, May 1952 | [View](https://archive.org/details/the-round-robin-v-8-n-1-may-1952) | |
 | 1952-07 | _The Round Robin_, V8 N2, Jul 1952 | [View](https://archive.org/details/the-round-robin-v-8-n-2-jul-1952) | |
 | 1952-09 | _The Round Robin_, V8 N3, Sep-Oct 1952 | [View](https://archive.org/details/round_robin_v8_n3_sep_oct_1952) | |
+| 1952-11 | _The Round Robin_, V8 N4, Nov-Dec 1952 | [View](https://archive.org/details/round_robin_v8_n4_nov_dec_1952) | |
 | 1953-01 | _The Round Robin_, V8 N5, Jan 1953 | [View](https://archive.org/details/the-round-robin-v-8-n-5-jan-1953) | |
 | 1953-03 | _The Round Robin_, V8 N6, Mar 1953 | [View](https://archive.org/details/the-round-robin-v-8-n-6-mar-1953) | |
 | 1953-05 | _The Round Robin_, V9 N1, May 1953 | [View](https://archive.org/details/the-round-robin-v-9-n-1-may-1953) | |
