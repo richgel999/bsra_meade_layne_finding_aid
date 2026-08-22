@@ -213,6 +213,8 @@ Note issue "CQC C1" and "CQC B3" were not issued according to the TOC.
 
 ## Misc Issues, Publications, Letters
 
+The BSRA would occasionally issue special labeled releases or notes inside _The Round Robin_. The ones I've been able to track down are either here, or (more rarely) were scanned within the relevant RR PDF.
+
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
 | 1945-01 | _The Art of Geomancy_ by Meade Layne | [View](https://archive.org/details/the-art-of-geomancy-meade-layne-1945-opt) | |
