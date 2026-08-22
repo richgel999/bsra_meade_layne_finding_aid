@@ -92,6 +92,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1953-05 | _The Round Robin_, V9 N1, May 1953 | [View](https://archive.org/details/the-round-robin-v-9-n-1-may-1953) | |
 | 1953-07 | _The Round Robin_, V9 N2, Jul 1953 | [View](https://archive.org/details/round-robin-v-9-n-2-jul-1953) | |
 | 1953-09 | _The Round Robin_, V9 N3, Sep 1953 | [View](https://archive.org/details/round-robin-v-9-n-3-sep-1953) | |
+| 1953-11 | _The Round Robin_, V9 N4, Nov-Dec 1953 | [View](https://archive.org/details/round_robin_v9_n4_nov_dec_1953) | |
 | 1954-01 | _The Round Robin_, V9 N5, Jan–Feb 1954 | [View](https://archive.org/details/round_robin_v9_n5_jan_feb_1954) | |
 | 1954-03 | _The Round Robin_, V9 N6, Mar–Apr 1954 | [View](https://archive.org/details/round_robin_v9_n6_mar_apr_1954) | |
 | 1954-05 | _The Round Robin_, V10 N1, May 1954 | [View](https://archive.org/details/round-robin-v-10-n-1-may-1954) | |
