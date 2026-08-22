@@ -134,7 +134,7 @@ You can also access most of the individual items in the collection [on archive.o
 
 The CQC publication was issued after the early 1953 Robertson Panel, when UFO/saucer related periodicals began to be monitored and censored.
 
-Note issue "CQC C1" and "CQC B3" were not issued according to the TOC.
+Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 
 | Date    | Title | Link | Notes |
 |---------|-------|------|-------|
