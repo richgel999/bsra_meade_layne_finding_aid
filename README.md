@@ -138,9 +138,9 @@ Note issue "CQC C1" and "CQC B3" were not issued according to the TOC.
 
 | Date    | Title | Link | Notes |
 |---------|-------|------|-------|
-| 1953-01 | _Clips, Quotes and Comments_ – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
-| 1953-01 | _Clips, Quotes and Comments_ – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) | |
-| 1953-01 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
+| 1953-06 | _Clips, Quotes and Comments_ – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
+| 1953-06 | _Clips, Quotes and Comments_ – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) | |
+| 1953-06 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
 | 1953-06 | _Clips, Quotes and Comments_, A1, Jun 1953 | [View](https://archive.org/details/bsra_CQC_A1_jun_1953) | |
 | 1953-09 | _Clips, Quotes and Comments_, A6 A7, Sep 1953 | [View](https://archive.org/details/bsra_CQC_A6_A7_sep_1953) | |
 | 1953-10 | _Clips, Quotes and Comments_, A8, Oct 1953 | [View](https://archive.org/details/bsra_CQC_a8_oct_1953) | |
