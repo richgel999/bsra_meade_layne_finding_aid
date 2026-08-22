@@ -132,6 +132,8 @@ You can also access most of the individual items in the collection [on archive.o
 
 <img width="582" height="561" alt="image" src="https://github.com/user-attachments/assets/30edef8d-9cf3-4d98-b35d-ccda0a704342" />
 
+Note issue "CQC C1" and "CQC B3" were not issued according to the TOC.
+
 | Date    | Title | Link | Notes |
 |---------|-------|------|-------|
 | 1953-01 | _Clips, Quotes and Comments_ – Table of Contents, 1953–1957 | [View](https://archive.org/details/cqc-toc-1953-n-1-to-12) | |
@@ -235,25 +237,26 @@ You can also access most of the individual items in the collection [on archive.o
 
 I've found a source (AFU) for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
 
-- RR V1N2-V1N11 - [digital versions](https://borderlandsciences.org/journal/vol/01/index.html)
-- RR V3N3 - [digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
-- RR V6N4 
+### Missing
+There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly remaining missing RR issues are currently V6N4 and V15N7. (Considering the age and fragileness of this mimeographed publication, this is amazing.)
+
+- RR V1N2-V1N11 - [full digital versions](https://borderlandsciences.org/journal/vol/01/index.html)
+- RR V3N3 - [full digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
+- RR V6N4 - missing
+- RR V15N7 - missing, [incomplete digital version](https://borderlandsciences.org/journal/vol/15/index.html)
+- CQC A3 - see CQC TOC for sections
+- CQC A5 - see CQC TOC for sections, front cover (AFU) [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
+- CQC C10 - unclear if it was ever issued (CQC TOC skips it)
+
+### Found (Awaiting Scanning)
 - RR V8N3 - found (AFU)
 - RR V8N4 - found (AFU)
 - RR V9N4 - found (AFU)
 - RR V13N1 - found (AFU)
 - RR V14N5 - found (AFU)
 - RR V14N6 - found (AFU)
-- RR V15 - found (AFU), [partial digital version](https://borderlandsciences.org/journal/vol/15/index.html)
 - CQC A2 - found (AFU)
-- CQC A3
 - CQC A4 - found (AFU)
-- CQC A5 - front cover (AFU) [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
-- CQC B3
-- CQC C1
-- CQC C10
-  
-The issues marked "found" will be digitized once they arrive.
 
 ## Other Known Physical Issue Collections
 
