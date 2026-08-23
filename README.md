@@ -262,10 +262,6 @@ There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly re
 - CQC D3 - Scanned, but several pages (1-5) missing
 - CQC C10 - unclear if it was ever issued (CQC TOC skips it)
 
-### Found (Awaiting Scanning)
-- CQC A2 - found (AFU)
-- CQC A4 - found (AFU)
-
 ## Other Known Physical Issue Collections
 
 - [AFU](https://anomalyarchives.org/links/other-archives/afu-archives-for-the-unexplained/) - They also have the BSRA _internal_ archive, both physical and digitized on their file server (contact them)
