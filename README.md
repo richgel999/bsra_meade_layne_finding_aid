@@ -148,6 +148,7 @@ Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 | 1953-06 | _Clips, Quotes and Comments_ – Catalog | [View](https://archive.org/details/bsra-clips-quotes-and-comments-catalog) | |
 | 1953-06 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
 | 1953-06 | _Clips, Quotes and Comments_, A1, Jun 1953 | [View](https://archive.org/details/bsra_CQC_A1_jun_1953) | |
+| 1953-07 | _Clips, Quotes and Comments_, A2, Jul 1953 | [View](https://archive.org/details/bsra_CQC_A2_jul_1953) | |
 | 1953-09 | _Clips, Quotes and Comments_, A6 A7, Sep 1953 | [View](https://archive.org/details/bsra_CQC_A6_A7_sep_1953) | |
 | 1953-10 | _Clips, Quotes and Comments_, A8, Oct 1953 | [View](https://archive.org/details/bsra_CQC_a8_oct_1953) | |
 | 1953-10 | _Clips, Quotes and Comments_, A9 A10, Oct–Nov 1953 | [View](https://archive.org/details/bsra_CQC_a9_a10_oct_nov_1953) | |
