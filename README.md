@@ -138,7 +138,7 @@ You can also access most of the individual items in the collection [on archive.o
 
 <img width="582" height="561" alt="image" src="https://github.com/user-attachments/assets/30edef8d-9cf3-4d98-b35d-ccda0a704342" />
 
-The CQC publication was issued after the early 1953 Robertson Panel, when UFO/saucer related periodicals began to be monitored and censored.
+The CQC publication was issued after the early 1953 Robertson Panel, when UFO/saucer related groups began to be monitored, and reports started to be censored in the national press.
 
 Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 
@@ -149,6 +149,7 @@ Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 | 1953-06 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
 | 1953-06 | _Clips, Quotes and Comments_, A1, Jun 1953 | [View](https://archive.org/details/bsra_CQC_A1_jun_1953) | |
 | 1953-07 | _Clips, Quotes and Comments_, A2, Jul 1953 | [View](https://archive.org/details/bsra_CQC_A2_jul_1953) | |
+| 1953-08 | _Clips, Quotes and Comments_, A4, Aug 1953 | [View](https://archive.org/details/bsra_CQC_A4_aug_1953) | |
 | 1953-09 | _Clips, Quotes and Comments_, A6 A7, Sep 1953 | [View](https://archive.org/details/bsra_CQC_A6_A7_sep_1953) | |
 | 1953-10 | _Clips, Quotes and Comments_, A8, Oct 1953 | [View](https://archive.org/details/bsra_CQC_a8_oct_1953) | |
 | 1953-10 | _Clips, Quotes and Comments_, A9 A10, Oct–Nov 1953 | [View](https://archive.org/details/bsra_CQC_a9_a10_oct_nov_1953) | |
