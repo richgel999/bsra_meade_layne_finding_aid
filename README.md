@@ -115,6 +115,7 @@ You can also access most of the individual items in the collection [on archive.o
 | 1956-11 | _The Round Robin_, V12 N4, Nov–Dec 1956 | [View](https://archive.org/details/round_robin_v12_n4_nov_dec_1956) | |
 | 1957-01 | _The Round Robin_, V12 N5, Jan–Feb 1957 | [View](https://archive.org/details/round_robin_v12_n5_jan-feb_1957) | |
 | 1957-03 | _The Round Robin_, V12 N6, Mar 1957 | [View](https://archive.org/details/round-robin-v-12-n-6-mar-1957) | |
+| 1957-05 | _The Round Robin_, V13 N1, May-Jun 1957 | [View](https://archive.org/details/round_robin_v13_n1_may_jun_1957) | |
 | 1957-07 | _The Round Robin_, V13 N2, Jul 1957 | [View](https://archive.org/details/round-robin-v-13-n-2-jul-1957) | |
 | 1957-09 | _The Round Robin_, V13 N3, Sep 1957 | [View](https://archive.org/details/round-robin-v-13-n-3-sep-1957) | |
 | 1957-11 | _The Round Robin_, V13 N4, Nov 1957 | [View](https://archive.org/details/round-robin-v-13-n-4-nov-1957) | |
