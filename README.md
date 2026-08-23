@@ -261,12 +261,6 @@ There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly re
 - CQC C10 - unclear if it was ever issued (CQC TOC skips it)
 
 ### Found (Awaiting Scanning)
-- RR V8N3 - found (AFU)
-- RR V8N4 - found (AFU)
-- RR V9N4 - found (AFU)
-- RR V13N1 - found (AFU)
-- RR V14N5 - found (AFU)
-- RR V14N6 - found (AFU)
 - CQC A2 - found (AFU)
 - CQC A4 - found (AFU)
 
