@@ -228,7 +228,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
 | 1945-01 | _The Art of Geomancy_ by Meade Layne | [View](https://archive.org/details/the-art-of-geomancy-meade-layne-1945-opt) | |
-| 1945-01 | Several missing V1/V2 issues | [View](https://archive.org/details/round_robin_1945_digital) | Digital Transcriptions of V1N2-V1N11 and V2N3 (Unknown Quality), or see [here](https://borderlandsciences.org/journal/vol/01/index.html) |
+| 1945-01 | Several missing V1/V2 issues | [View](https://archive.org/details/round_robin_1945_digital) | Digital Transcriptions of V1N2-V1N11 and V2N3 (unknown quality), or see [here](https://borderlandsciences.org/journal/vol/01/index.html) |
 | 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
 | 1946-10 | Kareeta: _Hanford Morning Journal_, Hanford, California, Tue, Oct 15, 1946, Page 1: "Was a Space Ship Seen in San Diego?" | [View](https://www.newspapers.com/article/hanford-morning-journal-kareeta/153063454/) | A sampling of the many clippings |
 | 1947-07 | Memorandum 6751, July 8, 1947 - Various sources | [View](https://archive.org/details/upsampled_bsra_memorandum_6751_july_8_1947) | See [Grokipedia](https://web.archive.org/web/20260306064216/https://grokipedia.com/page/memorandum-6751), in [official FBI files](https://vault.fbi.gov/UFO/UFO%20Part%2001/view), wasn't public at the time but the wording is clearly from previous RR/Flying Roll/Seance Notes |
