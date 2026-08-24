@@ -251,7 +251,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1954-04 | _Retro Me or Psychic Self Defense_ by Meade Layne | [View](https://archive.org/details/retro-me-or-psychic-self-defense-meade-layne-1954) | Pages 15-16 missing in physical issue |
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | Scanned issues from [AFU Shop](https://www.afu.se/afu-shop/) |
 | 1955-02 | "M. Fouere - And - The Nature of the Aeroforms, An Open Letter to the Editor of Uranus" | [View](https://archive.org/details/bsra_open_letter_aeroforms_feb_1955) | |
-| 1957-02 | NICAP mailing and "Open Letter to all Congressmen" from BSRA | [View](https://archive.org/details/nicap_feb_6_1957_bsra_open_letter) | |
+| 1957-02 | NICAP mailing and "Open Letter to all Congressmen" from BSRA | [View](https://archive.org/details/nicap_feb_6_1957_bsra_open_letter) | Approx. date |
 | 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | Scanned by Håkan Blomqvist (AFU) |
 | 1964-01 | _1954 - Flying Saucers at Edwards AFB_ | [View](https://archive.org/details/IAPSOP-nd__bsrf___flying_saucers_at_edwards_afb) | Approx. publication date, from IAPSOP |
