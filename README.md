@@ -259,10 +259,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 
 ## WANTED / Missing Round Robin/CQC Issues
 
-I've found a source (AFU) for the remaining V15 issues, and some of the earliest missing V1/V2 issues are available in [digital form here](https://borderlandsciences.org/journal/vol/rr.html), but these are still missing:
-
-### Missing
-There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly remaining missing RR issues for the 1945-1959 (primarily Meade Layne) time period are currently V6N4 and V15N7. (Considering the age and fragileness of this mimeographed publication, this is amazing.)
+There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly remaining missing RR issues for the 1945-1959 (primarily Meade Layne) time period are currently V6N4 and V15N7. Considering the age and fragileness of this mimeographed publication, this is amazing.
 
 - RR V1N2-V1N11 - [full digital versions](https://borderlandsciences.org/journal/vol/01/index.html)
 - RR V3N3 - [full digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
