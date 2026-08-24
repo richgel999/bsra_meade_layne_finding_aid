@@ -241,7 +241,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1951-01 | "Project Survival and Service" | [View](https://archive.org/details/bsra-project-ss-1951) | Page labeled "KC-2-51" |
 | 1951-01 | Bylaws | [View](https://archive.org/details/bsrf-inc-bylaws-180) | |
 | 1951-11 | _Etherian Notes_ by Regional Director E.S.S. (Edward S. Schultz, Buffalo NY) | [View](https://archive.org/details/etherian-notes-by-ees-nov-1951) | E.S.S. wrote to the [The Emergency Committee of Atomic Scientists](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/) [in 1948](https://archive.ph/JRL0k) |
-| 1954-04 | _Retro Me or Psychic Self Defense_ by Meade Layne | [View](https://archive.org/details/retro-me-or-psychic-self-defense-meade-layne-1954) | |
+| 1954-04 | _Retro Me or Psychic Self Defense_ by Meade Layne | [View](https://archive.org/details/retro-me-or-psychic-self-defense-meade-layne-1954) | Pages 15-16 missing in physical issue |
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | Issue from [AFU Shop](https://www.afu.se/afu-shop/) |
 | 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
