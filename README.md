@@ -265,9 +265,9 @@ There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly re
 - RR V3N3 - [full digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
 - RR V6N4 - missing
 - RR V15N7 - missing, [incomplete digital version](https://borderlandsciences.org/journal/vol/15/index.html)
-- CQC A3 - see CQC TOC for sections
-- CQC A5 - see CQC TOC for sections, front cover (AFU) [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
-- CQC D3 - Scanned, but several pages (1-5) missing (another full issue found, alternate scan coming)
+- CQC A3 - missing, see CQC TOC for sections
+- CQC A5 - missing, see CQC TOC for sections, front cover (AFU) [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
+- CQC D3 - several pages (1-5) missing (another full issue found, alternate scan coming)
 - CQC C10 - unclear if it was ever issued (CQC TOC skips it)
 
 ## Other Known Physical Issue Collections
