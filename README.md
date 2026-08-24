@@ -253,7 +253,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
 | 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | Scanned by Håkan Blomqvist (AFU) |
 | 1964-01 | _1954 - Flying Saucers at Edwards AFB_ | [View](https://archive.org/details/IAPSOP-nd__bsrf___flying_saucers_at_edwards_afb) | Approx. publication date, from IAPSOP |
-| 2018-06 | BSRA - FOIA issued by [The Black Vault](https://www.theblackvault.com/documentarchive/) | [View](https://archive.org/details/borderlandsciences-fbi1) | Mirrored to archive.org |
+| 2018-06 | BSRA - FOIA issued by [The Black Vault](https://www.theblackvault.com/documentarchive/) | [View](https://archive.org/details/borderlandsciences-fbi1) | Mirrored to archive.org, original [here](https://documents.theblackvault.com/documents/fbifiles/paranormal/boderlandsciences-fbi1.pdf) |
 
 ## WANTED / Missing Round Robin/CQC Issues
 
