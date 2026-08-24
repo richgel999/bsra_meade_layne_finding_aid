@@ -241,6 +241,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
 | 1950-01 | _The Ether Ship Mystery and Its Solution_ (with Millen Cooke, uncredited) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Later reprinting [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also John A. Hilliard, [Edward S. Schultz](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/item/23571) ([backup](https://archive.ph/JRL0k)), and Max Freedom Long |
 | 1950-07 | 1950-07-05 Letter from Meade Layne to President Harry S. Truman |  [View](https://archive.org/details/500705-letter-from-meade-layne-to-harry-s-truman) | |
+| 1950-07 | BSRA private mailing list | [View](https://medium.com/@richgel99/bsras-private-distribution-list-from-1950-a2a2e0c27aee) | Mailing list used for 1950-07-05 mailing |
 | 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1950-01 | Misc. documents/releases | [View](https://archive.org/details/bsra_jan_1950_afu_archives) | Release 11-A-50, Release 1-A-50 (reprinted 5-15-50), Release K-3-53: Mar. 1953 Gerald Light letter, 2/25/1951: Advice to Dr. Kappa |
 | 1951-01 | "Project Survival and Service" | [View](https://archive.org/details/bsra-project-ss-1951) | Page labeled "KC-2-51" |
@@ -250,7 +251,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1954-04 | _Retro Me or Psychic Self Defense_ by Meade Layne | [View](https://archive.org/details/retro-me-or-psychic-self-defense-meade-layne-1954) | Pages 15-16 missing in physical issue |
 | 1954-08 | CQC - Missing "Gerald Light" Pages for A11 and C4| [View](https://archive.org/details/bsra_CQC_C4_A11_missing_gerald_light_pages_1950s) | Scanned issues from [AFU Shop](https://www.afu.se/afu-shop/) |
 | 1958-01 | On the book _Return of the Dove_ by Margaret Storm | [View](https://archive.org/details/bsra_return_of_the_dove_late_50s) | |
-| 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | |
+| 1958-02 | Memo, Feb. 15 1958 | [View](https://archive.org/details/bsra_memo_feb_15_1958) | Scanned by Håkan Blomqvist (AFU) |
 | 1960-01 | _1954 - Flying Saucers at Edwards AFB_ | [View](https://archive.org/details/IAPSOP-nd__bsrf___flying_saucers_at_edwards_afb) | Date approximate, from IAPSOP |
 | 2018-06 | BSRA - FOIA issued by [The Black Vault](https://www.theblackvault.com/documentarchive/) | [View](https://archive.org/details/borderlandsciences-fbi1) | Mirrored to archive.org |
 
