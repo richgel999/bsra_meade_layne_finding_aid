@@ -227,6 +227,9 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
+
+| 1936-01 | "Newton Meade Layne Jr." HS graduation reference in the _The San Diego Sun_ | [View](https://www.newspapers.com/article/the-san-diego-sun-newton-meade-layne/203082457/) | Wed, Jan 22, 1936, Page 11 |
+| 1942-01 | Newton Meade Layne - WW2 Draft Registration Card | [View](https://archive.org/details/newton-meade-layne-ww-2-draft-card-1942-ancestry-dot-com) | Source: ancestry.com |
 | 1945-01 | _The Art of Geomancy_ by Meade Layne | [View](https://archive.org/details/the-art-of-geomancy-meade-layne-1945-opt) | |
 | 1945-01 | Several missing V1/V2 issues | [View](https://archive.org/details/round_robin_1945_digital) | Digital Transcriptions of V1N2-V1N11 and V2N3 (unknown quality), or see [here](https://borderlandsciences.org/journal/vol/01/index.html) |
 | 1945-05 | Letters between Meade Layne and American philosopher and mathematician Franklin Merrell-Wolff | [View](https://archive.org/details/meade-layne-franklin-merrell-wolff-letters-c-59) | Or see [here](https://merrell-wolff.org/sites/default/files/C59.PDF) |
