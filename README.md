@@ -149,6 +149,7 @@ Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 | 1953-06 | Misc. papers, 1950s (found in CQC collection) | [View](https://archive.org/details/bsra_misc_1950s_202608) | |
 | 1953-06 | _Clips, Quotes and Comments_, A1, Jun 1953 | [View](https://archive.org/details/bsra_CQC_A1_jun_1953) | |
 | 1953-07 | _Clips, Quotes and Comments_, A2, Jul 1953 | [View](https://archive.org/details/bsra_CQC_A2_jul_1953) | |
+| 1953-07 | _Clips, Quotes and Comments_, A3, Jul-Aug 1953 | [View](https://archive.org/details/bsra-various-papers-12-a-52-3-a-52-shaver-inserts-eason-cqc-a-3-genesis-1953) | Combined with Addenda RR-IX-2 |
 | 1953-08 | _Clips, Quotes and Comments_, A4, Aug 1953 | [View](https://archive.org/details/bsra_CQC_A4_aug_1953) | |
 | 1953-09 | _Clips, Quotes and Comments_, A6 A7, Sep 1953 | [View](https://archive.org/details/bsra_CQC_A6_A7_sep_1953) | |
 | 1953-10 | _Clips, Quotes and Comments_, A8, Oct 1953 | [View](https://archive.org/details/bsra_CQC_a8_oct_1953) | |
@@ -271,7 +272,6 @@ There are complete digital versions of V1N2-V1N11 and V3N3, so the only truly re
 - RR V3N3 - [full digital version](https://borderlandsciences.org/journal/vol/03/n03/index.html)
 - RR V6N4 - missing
 - RR V15N7 - missing, [incomplete digital version](https://borderlandsciences.org/journal/vol/15/index.html)
-- CQC A3 - missing, see CQC TOC for sections
 - CQC A5 - missing, see CQC TOC for sections, front cover (AFU) [here](https://github.com/richgel999/bsra_meade_layne_finding_aid/blob/main/CQC_A5_front_lowres.png)
 - CQC D3 - several pages (1-5) missing (another full issue found, alternate scan coming)
 - CQC C10 - unclear if it was ever issued (CQC TOC skips it)
