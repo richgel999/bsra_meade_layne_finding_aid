@@ -1,9 +1,9 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://unlicense.org/)
 
 # Historical Note: Why the BSRA Collection Matters
-_By Richard Geldreich, Jr., Aug. 25, 2026_
 
-*An editorial overview of the BSRA archive and its place in the history of the UFO era.*
+_An editorial overview of the BSRA archive and its place in the history of the UFO era._  
+_By Richard Geldreich, Jr., Aug. 25, 2026_
 
 The conventional history of the UFO phenomenon begins on June 24, 1947, when Kenneth Arnold reported a very fast flying formation of nine shiny crescent-shaped objects skipping past Mount Rainier and an Oregon newspaperman coined the phrase "flying saucer." Everything that followed — the organizations, the theories, the contactees, the government correspondence — is usually told as a reaction to that event and the national wave it triggered in early July.
 
