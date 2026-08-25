@@ -1,4 +1,7 @@
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://unlicense.org/)
+
 # Historical Note: Why the BSRA Collection Matters
+_By Richard Geldreich, Jr., Aug. 25, 2026_
 
 *An editorial overview of the BSRA archive and its place in the history of the UFO era.*
 
