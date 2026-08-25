@@ -28,7 +28,7 @@ The pattern continued through the documents collected here: the [1950 letter to 
 
 Two claims that usually appear late in UFO historiography turn out, on the evidence of this archive, to have been there from the beginning:
 
-**The interdimensional hypothesis predates the extraterrestrial hypothesis in organized form.** Layne's "4-D" Etherian framework — usually treated as a 1960s–70s development associated with Jacques Vallée and John Keel, arising from the failures of nuts-and-bolts ufology — was in fact the *first* organized interpretation of the phenomenon, published before the phenomenon had a name. The ETH displaced it, not the other way around.
+**The interdimensional hypothesis predates the extraterrestrial hypothesis in organized form.** Layne's "4-D" Etherian framework — usually treated as a 1960s–70s development associated with Jacques Vallée and John Keel, arising from the failures of nuts-and-bolts ufology — was in fact the *first* organized interpretation of the phenomenon, published before the phenomenon had a name. The ETH (Extraterrestrial Hypothesis) displaced it, not the other way around.
 
 **The contactee template predates the contactees.** The Kareeta episode of 1946 contains the complete genre in miniature, years before the figures normally credited with creating it.
 
