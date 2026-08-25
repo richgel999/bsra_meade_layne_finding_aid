@@ -266,7 +266,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1964-01 | _1954 - Flying Saucers at Edwards AFB_ | [View](https://archive.org/details/IAPSOP-nd__bsrf___flying_saucers_at_edwards_afb) | Approx. publication date, from IAPSOP |
 | 2018-06 | BSRA - FOIA issued by [The Black Vault](https://www.theblackvault.com/documentarchive/) | [View](https://archive.org/details/borderlandsciences-fbi1) | Mirrored to archive.org, original [here](https://documents.theblackvault.com/documents/fbifiles/paranormal/boderlandsciences-fbi1.pdf) |
 
-Note Millen Cooke (1915-1995, one of the credited co-authors of the original [_The Ether Ship Mystery and its Solution_](https://archive.org/details/the-ether-ship-mystery-and-its-solution-flying-discs-meade-layne-1950) (1950) was known under several names: Belknap, then Trench, née Wilma Dorothy Millen Vermilyea. See [here](https://fancyclopedia.org/Millen_Cooke), [here](https://tellersofweirdtales.blogspot.com/2011/06/wilma-dorothy-vermilyea-1915-1995.html), or [here](https://medium.com/@richgel99/son-of-the-sun-by-millen-cooke-7fd71f90fe40).
+Note Millen Cooke (1915-1995), one of the credited co-authors of the original [_The Ether Ship Mystery and its Solution_](https://archive.org/details/the-ether-ship-mystery-and-its-solution-flying-discs-meade-layne-1950) (1950), was known under several names: Belknap, then Trench, née Wilma Dorothy Millen Vermilyea. See [here](https://fancyclopedia.org/Millen_Cooke), [here](https://tellersofweirdtales.blogspot.com/2011/06/wilma-dorothy-vermilyea-1915-1995.html), or [here](https://medium.com/@richgel99/son-of-the-sun-by-millen-cooke-7fd71f90fe40).
 
 ## WANTED / Missing Round Robin/CQC Issues
 
