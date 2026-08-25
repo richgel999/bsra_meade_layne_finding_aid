@@ -238,7 +238,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1948-01 | Series 8 _Seance Memoranda_, late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
 | 1948-01 | BSRA Releases 1948-1953 | [View](https://archive.org/details/bsra-release-1953-10-c-53) | Multiple Releases: 1948 11-A-8, 1949 10-A-9, 1950 1-A-50, 1951 1-A-51, 1951 8-A-51, 1951 9-A-51, 1951 10-A-51, 1952 3-A-52, 1952 9-A-52, 1952 10-A-52, 1952 12-A-52, 1953 1-B-53, 1953 10-C-53 | 
 | 1948-01 | _A Description Of Rainbow City From The Hefferlin Manuscript_  | [View](https://archive.org/details/bsra-a-description-of-rainbow-city-from-the-hefferlin-manuscript) | Approx. date, BSRA printing in 1950's |
-| 1949-04 | _Mystery of the Flying Discs - Addenda to booklet #1_ and _A Second Memorandum of Importance_ | [View](https://archive.org/details/bsra-mystery-of-the-flying-discs-addenda-to-booklet-1-a-second-memorandum-of-importance) | |
+| 1949-04 | _Mystery of the Flying Discs - Addenda to booklet #1_ and _A Second Memorandum of Importance_ | [View](https://archive.org/details/bsra-mystery-of-the-flying-discs-addenda-to-booklet-1) | Memo sent to "various publications and authorities" |
 | 1949-05 | _Fate_ V2 N1 May 1949 | [View](https://archive.org/details/fate-v-2-n-1-may-1949) | See Pages 16-21: "Mark Probert - Baffling San Diego Medium" by Meade Layne |
 | 1949-07 | Various 1949-1950 newspaper clippings | [View](https://archive.org/details/500424-cleveland-plain-dealer-bsra) | |
 | 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
