@@ -223,7 +223,7 @@ Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 
 ## Misc Issues, Publications, Letters
 
-The BSRA would occasionally issue special labeled releases or notes inside _The Round Robin_. The ones I've been able to track down are either here, or (more rarely) were scanned within the relevant RR PDF.
+The BSRA would occasionally issue special labeled releases or notes inside _The Round Robin_, or send "Memorandum of Importance" to "various publications and authorities". The ones I've been able to track down are either here, or (more rarely) were scanned within the relevant RR PDF.
 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
