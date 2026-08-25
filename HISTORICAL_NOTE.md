@@ -1,4 +1,4 @@
-# Historical Note: Why This Collection Matters
+# Historical Note: Why the BSRA Collection Matters
 
 *An editorial overview of the BSRA archive and its place in the history of the UFO era.*
 
