@@ -6,6 +6,8 @@ A finding aid for digitized [Public Domain](https://uslawexplained.com/copyright
 
 Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) BSRA Collection, purchased from a collector on eBay. (This specific name was on a hand written note on the inside of the box containing the very rare _The Flying Roll_ issues, so I decided to name it after him.) Durant was a "lifelong member of Society of American Magicians" (Wikipedia). The few missing issues were digitized from purchases made from the [AFU Shop](https://www.afushop.se/en) in Sweden, eBay, [Abe Books](https://www.abebooks.com/), or Amazon, or downloaded from the [IAPSOP](https://iapsop.com/) or [The Black Vault](https://www.theblackvault.com/documentarchive/). A very useful tool has been [find-more-books.com](https://www.find-more-books.com/). It's taken years to track down and scan this collection.
 
+The physical Durant BSRA collection will be donated to an archive, once I find a suitable one. Each individual issue has been carefully wrapped.
+
  **Over 170 items** in four categories:
 
 - [The Flying Roll](#the-flying-roll)
