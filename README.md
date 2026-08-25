@@ -240,7 +240,7 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1949-04 | _Mystery of the Flying Discs - Addenda to booklet #1_ and _A Second Memorandum of Importance_ | [View](https://archive.org/details/bsra-mystery-of-the-flying-discs-addenda-to-booklet-1) | Memo sent to "various publications and authorities" |
 | 1949-05 | _Fate_ V2 N1 May 1949 | [View](https://archive.org/details/fate-v-2-n-1-may-1949) | See Pages 16-21: "Mark Probert - Baffling San Diego Medium" by Meade Layne |
 | 1949-07 | Various 1949-1950 newspaper clippings | [View](https://archive.org/details/500424-cleveland-plain-dealer-bsra) | |
-| 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | |
+| 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | A reprint |
 | 1950-01 | _A Description Of Rainbow City From The Hefferlin Manuscript_  | [View](https://archive.org/details/bsra-a-description-of-rainbow-city-from-the-hefferlin-manuscript) | Approx. date, BSRA printing in 1950's |
 | 1950-01 | Misc. documents/releases | [View](https://archive.org/details/bsra_jan_1950_afu_archives) | Release 11-A-50, Release 1-A-50 (reprinted 5-15-50), Release K-3-53: Mar. 1953 Gerald Light letter, 2/25/1951: Advice to Dr. Kappa |
 | 1950-01 | _Sources of Information Concerning Ether Craft and Etheric Phenomena in General_ | [View](https://archive.org/details/bsra-sources-of-information-concerning-ether-craft-and-etheric-phenomena-in-general) | Also contains _To All Friends of Man - and Servants of Right Knowledge_ (1948) |
