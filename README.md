@@ -2,7 +2,7 @@
 
 # BSRA / Borderland Sciences Finding Aid
 
-A finding aid for digitized Public Domain publications of the **Borderland Sciences Research Associates (BSRA)**, founded by [Meade Layne](https://iapsop.com/archive/materials/people.html#layne_meade), hosted on the Internet Archive.
+A finding aid for digitized Public Domain publications of the **Borderland Sciences Research Associates (BSRA)**, founded by [Meade Layne](https://iapsop.com/archive/materials/people.html#layne_meade), hosted on the Internet Archive. See here form some [BSRA background info](HISTORICAL_NOTE.md).
 
 Much of this was digitized from the [Frederick Clark Durant III](https://en.wikipedia.org/wiki/Frederick_C._Durant) BSRA Collection, purchased from a collector on Ebay. (This specific name was on a hand written note on the inside of the box containing the very rare _The Flying Roll_ issues, so I decided to name it after him.) A few of the issues were digitized from purchases made from the [AFU Shop](https://www.afushop.se/en) in Sweden, eBay, [Abe Books](https://www.abebooks.com/), or Amazon, or downloaded from the [IAPSOP](https://iapsop.com/) or [The Black Vault](https://www.theblackvault.com/documentarchive/). A very useful tool has been [find-more-books.com](https://www.find-more-books.com/). It's taken years to track down and scan this collection.
 
