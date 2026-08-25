@@ -4,7 +4,7 @@
 
 The conventional history of the UFO phenomenon begins on June 24, 1947, when Kenneth Arnold reported a very fast flying formation of nine shiny crescent-shaped objects skipping past Mount Rainier and an Oregon newspaperman coined the phrase "flying saucer." Everything that followed — the organizations, the theories, the contactees, the government correspondence — is usually told as a reaction to that event and the national wave it triggered in early July.
 
-The documents in this collection tell a different story. They show that at least one organization did not react to the saucer era. It was waiting for it.
+The documents in this collection tell a different story. They show that at least one organization did not react to the saucer era. _It was waiting for it._
 
 ## The machine was already running
 
