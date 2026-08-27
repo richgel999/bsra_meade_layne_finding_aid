@@ -231,7 +231,6 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
-
 | 1948-11 | BSRA Releases 1948-1953 | [View](https://archive.org/details/bsra-release-1953-10-c-53) | Multiple Releases: 1948 11-A-8, 1949 10-A-9, 1950 1-A-50, 1951 1-A-51, 1951 8-A-51, 1951 9-A-51, 1951 10-A-51, 1952 3-A-52, 1952 9-A-52, 1952 10-A-52, 1952 12-A-52, 1953 1-B-53, 1953 10-C-53 | 
 | 1950-01 | Misc. documents/releases | [View](https://archive.org/details/bsra_jan_1950_afu_archives) | Release 11-A-50, Release 1-A-50 (reprinted 5-15-50), Release K-3-53: Mar. 1953 Gerald Light letter, 2/25/1951: Advice to Dr. Kappa |
 | 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
