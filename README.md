@@ -13,6 +13,7 @@ The physical Durant BSRA Collection will be donated to an archive, once I find a
 - [The Flying Roll](#the-flying-roll)
 - [The Round Robin](#the-round-robin)
 - [Clips, Quotes and Comments (CQC)](#clips-quotes-and-comments-cqc)
+- [Releases](#releases)
 - [Misc. Issues, Publications, Letters, Releases](#misc-issues-publications-letters)
 
 You can also access most of the individual items in the collection [on archive.org here](https://archive.org/search?query=creator%3A%22Meade+Layne%22). Also see the [IAPSOP collection](https://iapsop.com/archive/materials/round_robin/).
@@ -224,9 +225,19 @@ Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 | 1958-09 | _Clips, Quotes and Comments_, H8, Sep 1958 | [View](https://archive.org/details/bsra_CQC_h8_sep_1958) | |
 | 1958-10 | _Clips, Quotes and Comments_, H9, Oct 1958 | [View](https://archive.org/details/bsra_CQC_h9_oct_1958) | |
 
-## Misc Issues, Publications, Letters
+## Releases
 
 The BSRA would occasionally issue special labeled releases or notes inside _The Round Robin_, or send "Memorandum of Importance" to "various publications and authorities". The ones I've been able to track down are either here, or (more rarely) were scanned within the relevant RR PDF.
+
+| Date | Title | Link | Notes |
+|------|-------|------|-------|
+
+| 1948-11 | BSRA Releases 1948-1953 | [View](https://archive.org/details/bsra-release-1953-10-c-53) | Multiple Releases: 1948 11-A-8, 1949 10-A-9, 1950 1-A-50, 1951 1-A-51, 1951 8-A-51, 1951 9-A-51, 1951 10-A-51, 1952 3-A-52, 1952 9-A-52, 1952 10-A-52, 1952 12-A-52, 1953 1-B-53, 1953 10-C-53 | 
+| 1950-01 | Misc. documents/releases | [View](https://archive.org/details/bsra_jan_1950_afu_archives) | Release 11-A-50, Release 1-A-50 (reprinted 5-15-50), Release K-3-53: Mar. 1953 Gerald Light letter, 2/25/1951: Advice to Dr. Kappa |
+| 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
+| 1953-01 | Various: New Age Foundation, Adamski, 12-A-52, 3-A-52, Seanor Screen, Richard (Dick) Shaver letter, Correction for Hermes Diagram RR V7N4, 1953 Prophecies, "Saucers and Sorcery", Project Survival and Service, Insert for RR V8N6, Eason, CQC-A3, Genesis | [View](https://archive.org/details/bsra-various-papers-12-a-52-3-a-52-shaver-inserts-eason-cqc-a-3-genesis-1953) | Large assortment of inserts, releases, etc. Last page of Genesis left out of scan. |
+
+## Misc Issues, Publications, Letters
 
 | Date | Title | Link | Notes |
 |------|-------|------|-------|
@@ -240,25 +251,21 @@ The BSRA would occasionally issue special labeled releases or notes inside _The 
 | 1946-10 | Kareeta: _Hanford Morning Journal_, Hanford, California, Tue, Oct 15, 1946, Page 1: "Was a Space Ship Seen in San Diego?" | [View](https://www.newspapers.com/article/hanford-morning-journal-kareeta/153063454/) | A sampling of the many clippings from newspapers.com |
 | 1947-07 | _A Memorandum of Importance_ or "Memorandum 6751", July 8, 1947 - Various sources | [View](https://archive.org/details/upsampled_bsra_memorandum_6751_july_8_1947) | See [Grokipedia](https://web.archive.org/web/20260306064216/https://grokipedia.com/page/memorandum-6751), in [official FBI files](https://vault.fbi.gov/UFO/UFO%20Part%2001/view), wasn't public at the time but the wording is clearly from previous RR/Flying Roll/Seance Notes |
 | 1948-01 | Series 8 _Seance Memoranda_, late 1940s | [View](https://archive.org/details/bsra-8-d-no-7-seance-memoranda-march-14-1948-june-27-1948) | |
-| 1948-11 | BSRA Releases 1948-1953 | [View](https://archive.org/details/bsra-release-1953-10-c-53) | Multiple Releases: 1948 11-A-8, 1949 10-A-9, 1950 1-A-50, 1951 1-A-51, 1951 8-A-51, 1951 9-A-51, 1951 10-A-51, 1952 3-A-52, 1952 9-A-52, 1952 10-A-52, 1952 12-A-52, 1953 1-B-53, 1953 10-C-53 | 
 | 1949-04 | _Mystery of the Flying Discs - Addenda to booklet #1_ and _A Second Memorandum of Importance_ | [View](https://archive.org/details/bsra-mystery-of-the-flying-discs-addenda-to-booklet-1) | Continuation of _The Mystery Of The Flying Discs_, Memo at end sent to "various publications and authorities" |
 | 1949-05 | _Fate_ V2 N1 May 1949 | [View](https://archive.org/details/fate-v-2-n-1-may-1949) | See Pages 16-21: "Mark Probert - Baffling San Diego Medium" by Meade Layne |
 | 1949-07 | Various 1949-1950 newspaper clippings | [View](https://archive.org/details/500424-cleveland-plain-dealer-bsra) | |
 | 1949-08 | _The Mystery Of The Flying Discs_ | [View](https://archive.org/details/bsra-the-mystery-of-the-flying-disc-1948-2nd-printing) | A reprint |
 | 1950-01 | _A Description Of Rainbow City From The Hefferlin Manuscript_  | [View](https://archive.org/details/bsra-a-description-of-rainbow-city-from-the-hefferlin-manuscript) | Approx. date, BSRA printing in 1950's |
-| 1950-01 | Misc. documents/releases | [View](https://archive.org/details/bsra_jan_1950_afu_archives) | Release 11-A-50, Release 1-A-50 (reprinted 5-15-50), Release K-3-53: Mar. 1953 Gerald Light letter, 2/25/1951: Advice to Dr. Kappa |
 | 1950-01 | _Sources of Information Concerning Ether Craft and Etheric Phenomena in General_ | [View](https://archive.org/details/bsra-sources-of-information-concerning-ether-craft-and-etheric-phenomena-in-general) | Also contains _To All Friends of Man - and Servants of Right Knowledge_ (1948) |
 | 1950-01 | _The Ether Ship Mystery and Its Solution - Flying Discs_ | [View](https://archive.org/details/the-ether-ship-mystery-and-its-solution-flying-discs-meade-layne-1950) | High quality booklet printed by "Talk of the Times Pub. Co." |
 | 1950-01 | _The Ether Ship Mystery and Its Solution_ (Reprinted, with Riley Crabb) | [View](https://archive.org/details/ether_ship_mystery_and_its_solution_meade_layne) | Another reprinting is [here](https://archive.org/details/the-flying-saucer-mystery-and-its-solution-meade-layne-1950), also Millen Cooke, John A. Hilliard, [Edward S. Schultz](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/item/23571) ([backup](https://archive.ph/JRL0k)), and Max Freedom Long |
 | 1950-07 | 1950-07-05 Letter from Meade Layne to President Harry S. Truman |  [View](https://archive.org/details/500705-letter-from-meade-layne-to-harry-s-truman) | |
 | 1950-07 | BSRA private mailing list | [View](https://medium.com/@richgel99/bsras-private-distribution-list-from-1950-a2a2e0c27aee) | Mailing list used for 1950-07-05 mailing, includes Truman, Twining etc. |
-| 1950-10 | Release 10-A-50, on _Behind The Flying Saucers_ by Frank Scully| [View](https://archive.org/details/bsra-release-10-a-50-behind-the-flying-saucers) | |
 | 1951-01 | "Project Survival and Service" | [View](https://archive.org/details/bsra-project-ss-1951) | Page labeled "KC-2-51" |
 | 1951-05 | "Articles of Incorporation - Not for Profit", "Bylaws", and "Amendments to Bylaws" | [View](https://archive.org/details/bsrf-inc-bylaws-180) | Amendment dated 11/15/1959 |
 | 1951-05 | _A Letter to the AEC_ | [View](https://archive.org/details/bsra-a-letter-to-the-aec-may-19-1951) | Likely written by BSRA Regional Director Edward S. Schultz (E.S.S.), Buffalo NY, dated May 19, 1951 |
 | 1951-11 | _Etherian Notes_ by Regional Director E.S.S. (Edward S. Schultz, Buffalo NY) | [View](https://archive.org/details/etherian-notes-by-ees-nov-1951) | E.S.S. wrote to the [The Emergency Committee of Atomic Scientists](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/) [in 1948](https://archive.ph/JRL0k), also see [here](https://scarc.library.oregonstate.edu/omeka/exhibits/show/ecas/letters-to-the-emergency-commi/letters-to-the-emergency-com80) |
 | 1952-08 | Message to the "President of the United States, AF, Army, Navy, Secretary of Defense", also "For Information of the Public.." | [View](https://archive.org/details/bsra_message_to_president_late_aug_1952) | Full mailing reconstructed via scanned + [Black Vault FOIA files](https://documents.theblackvault.com/documents/fbifiles/paranormal/boderlandsciences-fbi1.pdf) |
-| 1953-01 | Various: New Age Foundation, Adamski, 12-A-52, 3-A-52, Seanor Screen, Richard (Dick) Shaver letter, Correction for Hermes Diagram RR V7N4, 1953 Prophecies, "Saucers and Sorcery", Project Survival and Service, Insert for RR V8N6, Eason, CQC-A3, Genesis | [View](https://archive.org/details/bsra-various-papers-12-a-52-3-a-52-shaver-inserts-eason-cqc-a-3-genesis-1953) | Large assortment of inserts, releases, etc. Last page of Genesis left out of scan. |
 | 1953-07 | _The Ether of Space - A Compendium_ by Meade Layne | [View](https://archive.org/details/the-ether-of-space-a-compendium-by-meade-layne) | Subtitle: "(The Ethers and the Aeroforms)" |
 | 1954-01 | _Mediumship - A Study in Human Sensitivity and Its Development_ by Gilbert N. Holloway D.D.,Ph.D. | [View](https://archive.org/details/mediumship-gilbert-n-holloway-ph-d) | See Page 5: "Mark Probert as Trance Medium", book marked "Regional Directors BSRA Mr. and Mrs. F. B. Woodruff" |
 | 1954-04 | _Retro Me or Psychic Self Defense_ by Meade Layne | [View](https://archive.org/details/retro-me-or-psychic-self-defense-meade-layne-1954) | Pages 15-16 missing in physical issue |
