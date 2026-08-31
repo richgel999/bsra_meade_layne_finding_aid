@@ -171,8 +171,8 @@ Note issue "CQC C1" and "CQC B3" were not released according to the TOC.
 | 1954-11 | _Clips, Quotes and Comments_, C9, Nov 1954 | [View](https://archive.org/details/bsra_CQC_c9_nov_1954) | |
 | 1954-12 | _Clips, Quotes and Comments_, C11 C12, Dec 1954 | [View](https://archive.org/details/bsra_CQC_c11_c12_dec_1954) | |
 | 1955-01 | _Clips, Quotes and Comments_, D1, Jan 1955 | [View](https://archive.org/details/bsra_CQC_d1_jan_1955) | |
-| 1955-01 | _Clips, Quotes and Comments_, D2 D3, Jan–Feb 1955 | [View](https://archive.org/details/bsra_CQC_d2_d3_jan_feb_1955) | |
-| 1955-02 | _Clips, Quotes and Comments_, D3, Feb–Mar 1955 | [View](https://archive.org/details/bsra_CQC_d3_feb_1955) | Several missing pages |
+| 1955-01 | _Clips, Quotes and Comments_, D2 D3, Jan–Feb 1955 | [View](https://archive.org/details/bsra_CQC_d2_d3_jan_feb_1955) | Also has D3 |
+| 1955-02 | _Clips, Quotes and Comments_, D3, Feb–Mar 1955 | [View](https://archive.org/details/bsra_cqc_d3_feb_1955_202608) | Alt version with missing pages: [View](https://archive.org/details/bsra_CQC_d3_feb_1955) |
 | 1955-02 | _Clips, Quotes and Comments_, D4 D5, Feb–Mar 1955 | [View](https://archive.org/details/bsra_CQC_D4_D5_feb_1955) | |
 | 1955-03 | _Clips, Quotes and Comments_, D6 D7, Mar–Apr 1955 | [View](https://archive.org/details/bsra_CQC_D6_D7_mar_apr_1955) | |
 | 1955-04 | _Clips, Quotes and Comments_, D8 D9, Apr–May 1955 | [View](https://archive.org/details/bsra_CQC_D8_D9_apr_may_1955) | |
